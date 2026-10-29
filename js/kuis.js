@@ -6,11 +6,36 @@
   let currentQuestionIndex = 0;
   let correctCount = 0;
   let answered = false;
+  let audioContext;
 
   const babSelectorEl = document.getElementById("bab-selector");
   const quizAreaEl = document.getElementById("quiz-area");
 
   const letters = ["A", "B", "C", "D", "E"];
+
+  function playAnswerSound(isCorrect) {
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
+    if (!AudioContext) return;
+
+    audioContext = audioContext || new AudioContext();
+    if (audioContext.state === "suspended") audioContext.resume();
+
+    const notes = isCorrect ? [660, 880] : [330, 220];
+    notes.forEach((frequency, index) => {
+      const startTime = audioContext.currentTime + index * 0.14;
+      const oscillator = audioContext.createOscillator();
+      const gain = audioContext.createGain();
+      oscillator.type = "sine";
+      oscillator.frequency.value = frequency;
+      gain.gain.setValueAtTime(0.0001, startTime);
+      gain.gain.exponentialRampToValueAtTime(0.18, startTime + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, startTime + 0.13);
+      oscillator.connect(gain);
+      gain.connect(audioContext.destination);
+      oscillator.start(startTime);
+      oscillator.stop(startTime + 0.14);
+    });
+  }
 
   // Load data
   async function loadData() {
@@ -134,6 +159,7 @@
 
     const q = currentQuestions[currentQuestionIndex];
     const isCorrect = selectedIndex === q.jawabanBenar;
+    playAnswerSound(isCorrect);
     const options = quizAreaEl.querySelectorAll(".quiz-option");
     const feedbackEl = document.getElementById("quiz-feedback");
 

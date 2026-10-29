@@ -1,6 +1,7 @@
 (function () {
   let babData = [];
   let currentBabIndex = -1;
+  let arabicDetailsVisible = false;
 
   const babListEl = document.getElementById("bab-list");
   const materiDetailEl = document.getElementById("materi-detail");
@@ -68,6 +69,8 @@
     const totalBab = babData.length;
     const fasals = bab.fasals || [];
     const arabTexts = bab.arabText || [];
+    const transliterasi = bab.transliterasi || [];
+    const terjemahan = bab.terjemahan || [];
     let fasalListHTML = "";
     if (fasals.length > 0) {
       const fasalItems = fasals.map((f, i) => {
@@ -75,6 +78,10 @@
         const arabBlock = arabText ? `
           <div class="arab-text" dir="rtl" lang="ar">
             <p>${arabText}</p>
+          </div>
+          <div class="arab-details" id="arabic-details-${i}" ${arabicDetailsVisible ? "" : "hidden"}>
+            <p><strong>Transliterasi:</strong> ${transliterasi[i] || "Belum tersedia."}</p>
+            <p><strong>Terjemahan:</strong> ${terjemahan[i] || "Belum tersedia."}</p>
           </div>
         ` : "";
         return `
@@ -91,6 +98,11 @@
       fasalListHTML = `
         <div class="fasal-list" role="list" aria-label="Daftar Fasal dan Hapalan">
           <h3>📖 Daftar Fasal & Hapalan</h3>
+          <button class="arab-toggle" id="toggle-arabic-details" type="button"
+                  aria-expanded="${arabicDetailsVisible}"
+                  aria-controls="${arabTexts.map((text, i) => text ? `arabic-details-${i}` : "").filter(Boolean).join(" ")}">
+            ${arabicDetailsVisible ? "Sembunyikan" : "Tampilkan"} transliterasi & terjemahan
+          </button>
           <ul>
             ${fasalItems}
           </ul>
@@ -124,6 +136,18 @@
         </div>
       </div>
     `;
+
+    const arabicToggle = materiDetailEl.querySelector("#toggle-arabic-details");
+    if (arabicToggle) {
+      arabicToggle.addEventListener("click", () => {
+        arabicDetailsVisible = !arabicDetailsVisible;
+        materiDetailEl.querySelectorAll(".arab-details").forEach((details) => {
+          details.hidden = !arabicDetailsVisible;
+        });
+        arabicToggle.setAttribute("aria-expanded", String(arabicDetailsVisible));
+        arabicToggle.textContent = `${arabicDetailsVisible ? "Sembunyikan" : "Tampilkan"} transliterasi & terjemahan`;
+      });
+    }
 
     // Scroll to detail
     materiDetailEl.scrollIntoView({ behavior: "smooth", block: "start" });

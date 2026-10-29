@@ -188,6 +188,202 @@
       "pilihan": ["2", "3", "4", "5"],
       "jawabanBenar": 2,
       "penjelasan": "Kewajiban bagi mayyit ada 4: memandikan, mengkafani, menshalati, dan menguburkan."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Rukun Islam yang terakhir adalah?",
+      "pilihan": ["Zakat", "Puasa Ramadhan", "Haji bagi yang mampu", "Shalat"],
+      "jawabanBenar": 2,
+      "penjelasan": "Rukun Islam kelima adalah menunaikan haji ke Baitullah bagi yang mampu."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Iman kepada takdir termasuk Rukun Iman ke berapa?",
+      "pilihan": ["Ketiga", "Keempat", "Kelima", "Keenam"],
+      "jawabanBenar": 3,
+      "penjelasan": "Rukun Iman keenam adalah iman kepada takdir baik dan buruk."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Di manakah tempat niat?",
+      "pilihan": ["Lisan", "Hati", "Tangan", "Kaki"],
+      "jawabanBenar": 1,
+      "penjelasan": "Tempat niat adalah di dalam hati; melafazkannya hukumnya sunnah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Air banyak menurut pembagian dalam materi ini berjumlah?",
+      "pilihan": ["Kurang dari satu qullah", "Satu qullah", "Dua qullah atau lebih", "Tiga qullah atau lebih"],
+      "jawabanBenar": 2,
+      "penjelasan": "Air banyak adalah air yang mencapai dua qullah atau lebih."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa dua fardhu mandi wajib?",
+      "pilihan": ["Niat dan meratakan air ke seluruh badan", "Membasuh kaki dan tangan", "Wudhu dan berkumur", "Membasuh kepala dan kaki"],
+      "jawabanBenar": 0,
+      "penjelasan": "Dua fardhu mandi adalah niat dan meratakan air ke seluruh badan."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa yang wajib diratakan airnya saat mandi wajib?",
+      "pilihan": ["Kepala saja", "Seluruh badan", "Kedua tangan", "Anggota wudhu saja"],
+      "jawabanBenar": 1,
+      "penjelasan": "Air wajib diratakan ke seluruh badan."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Manakah yang termasuk sebab mandi wajib?",
+      "pilihan": ["Tidur siang", "Makan", "Haid", "Bepergian"],
+      "jawabanBenar": 2,
+      "penjelasan": "Haid termasuk salah satu sebab diwajibkannya mandi."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Berapa kali tepukan untuk mengusap wajah dan kedua tangan dalam tayammum?",
+      "pilihan": ["Satu", "Dua", "Tiga", "Empat"],
+      "jawabanBenar": 1,
+      "penjelasan": "Dalam materi ini tayammum dilakukan dengan dua kali tepukan."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Kapan tayammum dilakukan untuk shalat fardhu?",
+      "pilihan": ["Sebelum masuk waktu", "Setelah masuk waktu", "Hanya setelah tengah malam", "Kapan saja tanpa memperhatikan waktu"],
+      "jawabanBenar": 1,
+      "penjelasan": "Salah satu syarat tayammum adalah dilakukan setelah masuk waktu shalat."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Najis Mughalladhah disucikan dengan berapa kali basuhan?",
+      "pilihan": ["Tiga kali", "Lima kali", "Tujuh kali", "Sepuluh kali"],
+      "jawabanBenar": 2,
+      "penjelasan": "Najis Mughalladhah disucikan dengan tujuh kali basuhan, salah satunya menggunakan tanah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Berapa lama masa haid paling sedikit menurut materi?",
+      "pilihan": ["Setengah hari", "Sehari-semalam", "Dua hari", "Tiga hari"],
+      "jawabanBenar": 1,
+      "penjelasan": "Masa haid paling sedikit adalah sehari-semalam."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa dua perkara yang menjadi udzur shalat dalam materi?",
+      "pilihan": ["Sakit dan bepergian", "Tidur dan lupa", "Lapar dan haus", "Hujan dan angin"],
+      "jawabanBenar": 1,
+      "penjelasan": "Tidur dan lupa disebut sebagai udzur shalat."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Batas aurat laki-laki dalam shalat adalah?",
+      "pilihan": ["Antara pusar dan lutut", "Dari bahu sampai kaki", "Kepala dan dada", "Seluruh badan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Aurat laki-laki dalam shalat adalah antara pusar dan lutut."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Berapa jumlah tasydid dalam surat Al-Fatihah menurut materi?",
+      "pilihan": ["10", "12", "14", "16"],
+      "jawabanBenar": 2,
+      "penjelasan": "Dalam materi disebutkan terdapat empat belas tasydid pada surat Al-Fatihah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Niat shalat fardhu mencakup maksud melakukan shalat, penentuan shalat, dan ...",
+      "pilihan": ["Tempat shalat", "Status fardhu", "Jumlah rakaat sunnah", "Nama imam"],
+      "jawabanBenar": 1,
+      "penjelasan": "Niat shalat fardhu mencakup maksud, penentuan shalat, dan status fardhunya."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Mengangkat kedua tangan disunnahkan pada berapa tempat?",
+      "pilihan": ["Dua", "Tiga", "Empat", "Lima"],
+      "jawabanBenar": 2,
+      "penjelasan": "Mengangkat kedua tangan disunnahkan pada empat tempat dalam shalat."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Sujud dilakukan dengan berapa anggota?",
+      "pilihan": ["Lima", "Enam", "Tujuh", "Delapan"],
+      "jawabanBenar": 2,
+      "penjelasan": "Sujud dilakukan dengan tujuh anggota."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Bacaan tasyahud paling ringkas memiliki berapa tasydid menurut materi?",
+      "pilihan": ["14", "16", "21", "24"],
+      "jawabanBenar": 1,
+      "penjelasan": "Menurut materi, bacaan tasyahud paling ringkas memiliki enam belas tasydid."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Berapa jumlah tasydid pada bacaan shalawat paling ringkas menurut materi?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 2,
+      "penjelasan": "Bacaan shalawat paling ringkas memiliki empat tasydid menurut materi."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Waktu Zuhur dimulai ketika?",
+      "pilihan": ["Matahari terbit", "Matahari tergelincir", "Matahari terbenam", "Fajar terbit"],
+      "jawabanBenar": 1,
+      "penjelasan": "Waktu Zuhur dimulai setelah matahari tergelincir dari tengah langit."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Waktu Subuh dimulai saat?",
+      "pilihan": ["Fajar shadiq terbit", "Matahari terbit", "Matahari tergelincir", "Mega merah hilang"],
+      "jawabanBenar": 0,
+      "penjelasan": "Waktu Subuh dimulai ketika fajar shadiq terbit."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Berapa waktu yang diharamkan untuk shalat tanpa sebab khusus?",
+      "pilihan": ["Tiga", "Empat", "Lima", "Enam"],
+      "jawabanBenar": 2,
+      "penjelasan": "Ada lima waktu larangan shalat yang disebutkan dalam materi."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Waktu Maghrib dimulai ketika?",
+      "pilihan": ["Matahari terbit", "Matahari tergelincir", "Matahari terbenam", "Fajar shadiq terbit"],
+      "jawabanBenar": 2,
+      "penjelasan": "Waktu Maghrib dimulai saat matahari terbenam."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Berapa jumlah sebab sujud sahwi?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 2,
+      "penjelasan": "Sebab sujud sahwi ada empat."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Rukun shalat yang wajib disertai tuma'ninah ada berapa?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 2,
+      "penjelasan": "Ada empat: rukuk, i'tidal, sujud, dan duduk di antara dua sujud."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Dalam keadaan apa imam wajib berniat menjadi imam menurut materi?",
+      "pilihan": ["Dalam empat keadaan", "Dalam semua shalat sunnah", "Hanya saat shalat sendirian", "Hanya saat shalat Maghrib"],
+      "jawabanBenar": 0,
+      "penjelasan": "Materi menyebutkan empat keadaan yang mewajibkan niat menjadi imam."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa kewajiban pertama terhadap jenazah yang disebutkan dalam materi?",
+      "pilihan": ["Menguburkan", "Mengkafani", "Memandikan", "Menyalatkan"],
+      "jawabanBenar": 2,
+      "penjelasan": "Empat kewajiban terhadap jenazah adalah memandikan, mengkafani, menyalatkan, dan menguburkan."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Salah satu rukun khutbah adalah?",
+      "pilihan": ["Membaca satu ayat Al-Qur'an dalam salah satu khutbah", "Membaca seluruh Al-Qur'an", "Berpuasa sebelum khutbah", "Mengumandangkan azan dua kali"],
+      "jawabanBenar": 0,
+      "penjelasan": "Salah satu rukun khutbah adalah membaca satu ayat Al-Qur'an pada salah satu khutbah."
     }
   ]
 }
