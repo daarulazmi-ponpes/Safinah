@@ -1,0 +1,232 @@
+{
+  "bab": [
+    {
+      "id": "bab-1",
+      "nomor": 1,
+      "judul": "Rukun Islam dan Iman",
+      "kategori": "Aqidah",
+      "fasals": [
+        "Rukun Islam ada 5",
+        "Rukun Iman ada 6",
+        "Pengertian La ilaha illallah",
+        "Tanda-tanda baligh ada 3"
+      ],
+      "materi": "Materi ini membahas lima Rukun Islam dan enam Rukun Iman sebagai fondasi keimanan seorang Muslim, serta pengertian La ilaha illallah dan tanda-tanda baligh.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Rukun Islam dan Rukun Iman",
+      "arabText": [
+        "شھادة أن الإله إالﷲ وأن محمد رسول ﷲ وإقام الصالة ، رمضان ، وحج البيت من استطاع إليه",
+        "أن تؤمن باͿ  ، ومالئكته، وكتبه ورسوله،  وباليوم اآلخر ، . وبالقدر خيره وشره من ﷲ تعالى",
+        "المعبود بحق في الوجود إال ﷲ",
+        "تمام خمس عشرة سنه في الذكرواألنثى ، واالحتالم في ال واألنثى لتسع سنين ، و الحيض في األنثى لتسع سنين"
+      ]
+    },
+    {
+      "id": "bab-2",
+      "nomor": 2,
+      "judul": "Istinja' dan Wudhu",
+      "kategori": "Thaharah",
+      "fasals": [
+        "Syarat sah beristinja' dengan batu ada 8",
+        "Fardhu wudlu' ada 6",
+        "Niat adalah menyengaja sesuatu bersamaan dengan perbuatan",
+        "Air terbagi menjadi 2, air sedikit dan air banyak",
+        "Syarat wudlu ada 10",
+        "Pembatal wudlu ada 4",
+        "Larangan bagi orang yang wudlunya batal, ada 4"
+      ],
+      "materi": "Materi ini membahas cara bersuci dengan istinja' menggunakan batu, fardhu wudhu, niat wudhu, pembagian air, syarat wudhu, pembatal wudhu, dan larangan bagi orang yang wudhunya batal.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Istinja' dan Wudhu",
+      "arabText": [
+        "شروط إجزاء الحَجَرْ ثمانية أن يكون بثالثة أحجار ، وأن ينقي المحل ، وأن ال يجف النجس ، وال ينتقل ، وال يطرأ عليه آخر ،  وال يجاوز صفحته وحشفته  ، وال يصيبه ماء ، وأن تكون األحجار طاھرة مسح شيء من الرأس ، الخامس غسل الرجلين مع الكعبين ، السادس",
+        "قصد الشيء مقترنا بفعله ، ومحلھا القلب والتلفظ بھا سنة ، ووقتھا عند غسل أول جزء من الوجه  ، والترتيب أن ال يقدم عضو على عضو",
+        "القليل مادون القلتين ، والكثير قلتان فأكثر النجاسة فيه وإن لم يتغير والماء الكثير ال يتنجس إال إذا تغير",
+        "إيالج الحشفة في الفرج ، وخروج المنى والحيض والنفاس",
+        "اإلسالم ، والتمييز ، والنقاء ، عن الحيض  ، والنفاس ، وصول الماء إلى البشرة ، وأن ال يكون على العضو ما يغير الماء الطھور ، ودخول الوقت  ، والمواالة لدائم الحدث",
+        "نوا قض الوضوء أربعة أشياء الخارج من أحد السبيلين من قبل أو دبر ريح زوال العقل بنوم أو غيره إال نوم قاعد ، ممكن مقعده من وامرأة كبيرين من غير حائل  ، اآلدمي أو حلقة دبره ببطن الراحة أو بطون األصابع",
+        "من انتقض وضوؤه حرم عليه أربعه أشياء ويحرم على الجنب ستة أشياء الصالة والطواف ومس المصحف وحمله واللبث في المسجد ويحرم بالحيض عشرة أشياء الصالة والطواف ومس المصحف وحمله واللبث في المسجد وقراءة  القرآن والصوم والطالق والمرور في المسجد إن خافت تلويثه واال"
+      ]
+    },
+    {
+      "id": "bab-3",
+      "nomor": 3,
+      "judul": "Mandi Wajib",
+      "kategori": "Thaharah",
+      "fasals": [
+        "Kewajiban mandi ada 6",
+        "Fardhu mandi ada 2"
+      ],
+      "materi": "Materi ini membahas enam kewajiban mandi wajib dan dua fardhu mandi dalam Islam.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Mandi Wajib",
+      "arabText": [
+        "النية ، وتعميم البدن بالماء",
+        ""
+      ]
+    },
+    {
+      "id": "bab-4",
+      "nomor": 4,
+      "judul": "Tayammum",
+      "kategori": "Thaharah",
+      "fasals": [
+        "Sebab-sebab melakukan Tayammum, 3",
+        "Syarat-syarat Tayammum, ada 10",
+        "Fardhu Tayammum ada 5",
+        "Batalnya Tayammum"
+      ],
+      "materi": "Materi ini membahas tiga sebab melakukan tayammum, sepuluh syarat tayammum, lima fardhu tayammum, dan hal-hal yang membatalkan tayammum.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Tayammum",
+      "arabText": [
+        "فقد الماء ، والمرض ، واالحتياج إليه لعطش حيوان محترم تارك الصالة والزاني المحصن والمرتد والكافر الحربي والكلب العقور",
+        "أن يكون بتراب وان يكون التراب طاھرا وأن ال يكون مستعمال وال يخالطه دقيق ونحوه وأن يقصده وأن يمسح وجھه ويديه بضربتين وأن يزيل النجاسة أوال وأن يجتھد في القبلة قبله وأن يكون التيمم بعد دخول الوقت وأن يتيمم لكل فرض",
+        "مسح اليدين إلى المرفقين ، الخامس",
+        "ما أبطل الوضوء والردة وتوھم الماء إن تيمم لفقده والشك"
+      ]
+    },
+    {
+      "id": "bab-5",
+      "nomor": 5,
+      "judul": "Najis dan Haid",
+      "kategori": "Thaharah",
+      "fasals": [
+        "Benda-benda najis yang bisa menjadi suci, 3",
+        "Najis ada 3",
+        "Cara mensucikan najis Mughalladhah",
+        "Paling sedikit masa Haid, sehari-semalam"
+      ],
+      "materi": "Materi ini membahas tiga jenis najis, benda-benda najis yang bisa menjadi suci, cara mensucikan najis mughalladhah, serta ketentuan masa haid.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Najis dan Haid",
+      "arabText": [
+        "الذي يظھر من النجاسة ثالثة الخمر إذا تخللت بنفسھا وجلد الميتة إذا دبغ وما",
+        "نجاسة الكلب والخنزير وفرع بول الصبي الذي لم يطعم غير اللبن ولم يبلغ الحولين",
+        "تطھر بسبع غسالت بعد إزالة عينھا ،إحداھن بتراب برش الماء عليھا مع الغلبة وإزالة عينھا والمتوسطة تنقسم إلى قسمين التي لھا لون وريح وطعم فال بد م إزالة لونھا وريحھا وطعمھا التي ال لون لھا وال ريح والطعم لھا يكفيك جري",
+        "ستة أوسبع وأكثره خمسة عشرة يوما بلياليھا الطھر بين الحيضتين خمسة عشرة يوما وغالبه أربعة وعشرون يوما أو ثالثة وعشرون يوما أقل النفاس مجة وغالبة أربعون يوما وأكثرة ستون يوما"
+      ]
+    },
+    {
+      "id": "bab-6",
+      "nomor": 6,
+      "judul": "Syarat dan Rukun Shalat",
+      "kategori": "Shalat",
+      "fasals": [
+        "Udzur shalat karena 2 perkara: tidur dan lupa",
+        "Syarat-syarat shalat ada 8",
+        "Hadats itu ada 2 macam",
+        "Aurat dibagi menjadi 4",
+        "Rukun shalat ada 17"
+      ],
+      "materi": "Materi ini membahas udzur shalat, delapan syarat shalat, dua macam hadats, pembagian aurat menjadi 4, dan tujuh belas rukun shalat.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Syarat dan Rukun Shalat",
+      "arabText": [
+        "طھارة الحدثين والطھارة عن النجاسة في الثوب والبدن والمكان وستر العورة واستقبال القبلة ودخول الوقت والعلم بفريضتة وأن اليعتقد فرضا من فروضھا سنة واجتناب المبطالت فاألصغر ماأوجب الوضوء عورة الرجل مطلقا واألمة في الصالة ما بين السرة والركبة",
+        "أركان الصالة سبعة عشر األول النية ،الثاني تكبيرة اإلحرام ، الثالث القيام على القادر في الفرض ،الرابع قراءة الفاتحة ، الخامس الركوع ، السادس الطمأنينة فية ، السابع اإلعتدال ،الثامن الطمأنينة فيه ، التاسع السجود مرتين ،العاشر الطمأنينة فية ، الحادي عشر الجلوس بين السجدتين  ، الثاني عشر الطمأنينة فية ،الثالث عشر التشھد األخير ،الرابع عشر القعود فيه ،الخامس عشر الصالة على النبي صلى ﷲ عليه وسلم ،السادس عشر السالم",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "bab-7",
+      "nomor": 7,
+      "judul": "Niat, Takbir, dan Al-Fatihah",
+      "kategori": "Shalat",
+      "fasals": [
+        "Tingkatan niat ada 3",
+        "Syarat takbiratul Ihram ada 6",
+        "Syarat membaca Al-Fatihah ada 10",
+        "Tasydid pada surat Al-Fatihah ada 14"
+      ],
+      "materi": "Materi ini membahas tiga tingkatan niat, enam syarat takbiratul ihram, sepuluh syarat membaca Al-Fatihah, dan empat belas tasydid pada surat Al-Fatihah.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Niat, Takbir, dan Al-Fatihah",
+      "arabText": [
+        "إن كانت الصالة فرضا وجب قصد الفعل والتعيين والفرضية وإن كانت نافلة مؤقتة كراتبة او ذات سبب وجب قصد الفعل والتعيين ، وان كانت نافلة مطلقة ظھرا أو عصرا و الفرضية",
+        "ستة عشرة أن تقع  حالة القيام في الفرض وأن تكون بالعربيه وأن تكون بلفظ الجاللة وبلفظ أكبر والترتيب بين اللفظتين وأن اليمد ھمزة الجاللة وعدم مد باء أكبر وأن ال يشدد الباء وأن اليزيد  واواً ساكنة أو متحركة بين الكلمتين  ، وأن اليزيد قبل الجاللة وأن اليقف بين كلمتي التكبير وقفة طويلة وال قصيرة ، وأن يسمع نفسة جميع حروفھا ودخول الوقت في المؤقت وإيقاعھا حال اإلستقبال وأن ال يخل بحرف من حروفھا وتأخير تكبيرة المأموم عن تكبيرة اإلمام",
+        "الترتيب والمواالة ومراعاة تشديداتھا وأن ال يسكت سكتة طويلة وال قصيرة يقصد قطع القراءة وقراءة كل آياتھا ومنھا البسملة وعدم اللحن المخل بالمعنى وأن تكون حالة القيام في الفرض ، وأن يسم ع نفسة القراءة وأن ال يتخللھا ذكر أجنبي",
+        "تشديدات الفاتحة أربع عشرة بسم ﷲ فوق الالم ، الرَّحمن فوق الراء ، الرَّحيم فوق الراء ، الحمد Ϳ فوق الم الجاللة ، ربُّ العالمين فوق الباء ، الرَّحمن فوق الراء ،مالك يوم الدِّين فوق الدال ، إيَّاك نعبد فوق الياء ، إيَّاك نستعين فوق الياء ، اھدنا الصِّراط المستقيم فوق الصاد ، صراط الَّذين فوق الالم ، أنعمت عليھم غير المغضوب عليھم وال الضَّالِّين فوق"
+      ]
+    },
+    {
+      "id": "bab-8",
+      "nomor": 8,
+      "judul": "Sujud, Tasyahud, dan Salam",
+      "kategori": "Shalat",
+      "fasals": [
+        "Sunnah mengangkat tangan",
+        "Syarat Sujud ada 7",
+        "Tasydid-tasyid pada paling pendeknya bacaan Tasyahud",
+        "Tasydid-tasyid pada paling pendeknya bacaan Shalawat",
+        "Paling pendeknya salam"
+      ],
+      "materi": "Materi ini membahas sunnah mengangkat tangan, tujuh syarat sujud, bacaan tasyahud, bacaan shalawat, dan salam dalam shalat.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Sujud, Tasyahud, dan Salam",
+      "arabText": [
+        "يسن رفع اليدين في أربعة مواضع عند تكبيرة اإلحرام وعند الركوع وعند عتدال وعند القيام من التشھد األول",
+        "أن يسجد على سبعة أعضاء وأن تكون جبھته مكشوفة والتحامل الھوى لغيره  وأن اليسجد على شيء يتحرك بحركته وارتفاع أسافلة على أعالية ن الكفين والركبتان وبطون األصابع والرجلين",
+        "تشديدات التشھد إحدى  وعشرون خمس في أكمله وستة عشر في أقلة التاء والياء المباركات الصلوات عل ى الصاد ، الطيبات على الطاء والياء ،  Ϳ على الم الجاللة ، السالم على السين ، عليك أيھا النبي على الياء والنون والياء ، ورحمه ﷲ على الم الجالله ، وبركاته السالم على السين ، علينا وعلى عباد ﷲ على الم الجالله ، الصالحين على الصاد، أشھد أن الإله على ال م ألف ،إال ﷲ على الم ألف والم الجالله، وأشھدأن على النون ، .محمدا رسول ﷲ على ميم محمدا وعلى الراء وعلى الم الجالله -  المباركات الصلواتada pada Shad -  وبركاته السالمada pada Sin -  علينا وعلى عباد ﷲada pada Lam Jalalh -  أشھد أن الإلهada pada lam Alif (karena Idgam)",
+        "تشديدات أقل الصالة على النبي أربع اللھم على الالم والميم ، صل على الالم ، على",
+        "السالم عليكم تشديد السالم على السين Fasal : paling pendeknya salam adalah  السالم عليكمyang dibaca"
+      ]
+    },
+    {
+      "id": "bab-9",
+      "nomor": 9,
+      "judul": "Waktu Shalat",
+      "kategori": "Shalat",
+      "fasals": [
+        "Waktu Shalat ada 5",
+        "Haramnya shalat yang tidak memiliki sebab yang mendahului atau menyertainya"
+      ],
+      "materi": "Materi ini membahas lima waktu shalat dan waktu-waktu yang haram untuk shalat.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Waktu Shalat",
+      "arabText": [
+        "أول وقت الظھر زوال الشمس  ، وآخره مصير ظل الشيء مثله غير ظل اإلستواء ، وأول وقت العصر إذا صار ظل كل شيء مثلة وزاد قليال ، وآخره وأول وقت المغرب غروب الشمس وآخره غروب الشفق األحمر ، وآخره طلوع الفجر الصادق  وآخره طلوع الش صاله العشاء إلى أن يغيب الشفق األحمر واألبيض",
+        "تحرم الصالة التي ليس لھا سبب متقدم وال مقارن في خمسة أوقات الشمس حتى ترتفع  قدر رمح وعند اإلستواء في غير يوم الجمعة حتى تزول ، وعند اإلصفرار حتى تطلع الشمس وبعد صالة العصر حتى تغرب"
+      ]
+    },
+    {
+      "id": "bab-10",
+      "nomor": 10,
+      "judul": "Shalat Jamaah dan Imam",
+      "kategori": "Shalat",
+      "fasals": [
+        "Sebab-sebab sujud Syahwi",
+        "Batalnya shalat ada 14",
+        "Shalat Jamaah yang Imamnya wajib berniat menjadi Imam, 4",
+        "Syarat mengikuti seseorang menjadi makmum ada 11",
+        "Contoh mengikuti Imam ada 9 dan yang 5 dihukumi Sah",
+        "Syarat Jama' Takdim ada 4"
+      ],
+      "materi": "Materi ini membahas sujud syahwi, empat belas hal yang membatalkan shalat, shalat jamaah, syarat menjadi imam dan makmum, serta jama' takdim.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Shalat Jamaah",
+      "arabText": [
+        "بين تكبيرة اإلحرام ودعاء اإلفتتاح والتعوذ، وبين الفاتحة والتعوذ، وبين آخر الفاتحة وآمين ، وبين آمين والسوره ، وبين السورة والركوع",
+        "األركان التي تلزمه فيھا الطمأنينة أربعة الركوع واإلعتدال والسجود والجلوس بين سكون بعد حركة بحيث يستقر كل عضو",
+        "أسباب سجود السھو أربعة األول ترك بعض من أبعاض الصالة الثاني فعل مايبطل عمده واليبطل سھوه إذا فعله ناسيا ، الثالث نقل ركن قولي إلى غير محله ، الرابع إيقاع ركن فعلي مع احتمال الزيادة",
+        "التشھد األول وقعوده والصاله على النبي صلى ﷲ عليه وسلم فيه ، والصاله على اآلل التشھد األخير، والقنوت ،والصالة على النبي صلى ﷲ علية وسلم",
+        "تبطل الصالة بأربع عشرة خصلة بالحدث وبوقوع  النجاسة إن لم تلق حاال من غير ، وانكشاف العورة إن لم تستر حاال، والنطق بحرفين أو حرف مفھم عمدا ، وبالمفطر عمدا ، واألكل الكثير ناسيا ،أوثالث حركات متواليات ولو سھوا والوثبة الفاحشة والضربة المفرطة ، وزيادة ركن فعلي عمدا ، والتقدم على إمامه بركنين فعليين ، والتخلف بھما بغير قطع الصالة ، وتعليق قطعھا بشيء والتردد في قطعھا",
+        "الذي يلزم فية نية اإلمامة أربع الجمعة والمعاداة والمنذورة  جماعة والمتقدمة في"
+      ]
+    },
+    {
+      "id": "bab-11",
+      "nomor": 11,
+      "judul": "Khatbah dan Jenazah",
+      "kategori": "Ibadah",
+      "fasals": [
+        "Rukun 2 khatbah ada 5",
+        "Syarat 2 khatbah ada 10",
+        "Kewajiban bagi mayyit, ada 4",
+        "Memandikan Jenazah, dengan meratakan seluruh badan",
+        "Hukum minta tolong dalam bersuci ada 4"
+      ],
+      "materi": "Materi ini membahas lima rukun dua khutbah, sepuluh syarat khutbah, kewajiban bagi mayyit, cara memandikan jenazah, dan hukum minta tolong dalam bersuci.",
+      "ayat": "Referensi dari Kitab Safinatun Najah: Bab Khatbah dan Jenazah",
+      "arabText": [
+        "أن تكون كلھا في وقت الظھر وأن تقام في خطة البلد وأن تصلي جماعة وأن يكونوا أربعين أحرارا ذكورا بالغين مستوطنين وأن ال تسبقھا وال تقارنھا جمعة في تلك البلد وأن يتقدمھا خطبتان",
+        "حمد ﷲ فيھما والصالة على النبي صلى والوصية بالتقوى فيھما وقراءة آية من القرآن في أحداھما والدعاء للمؤمنين والمؤمنات في",
+        "الطھارة عن الحدثين األصغر واألكبر والطھارة عن النجاسة في الثوب والبدن والمكان وستر العورة والقيام على القادر والجلوس بينھما طمأنينة الصالة والمواالة بينھما وبين الصالة وأن تكون بالعربية وأن يسمعھا  أربعون وأن تكون كلھا في وقت الظھر",
+        "الذي يلزم للميت أربع خصال غسلة وتكفينة والصالة علية ودفنه",
+        "وأكمله أن يغسل سوأتيه وأن يزيل القذر من أنفه وأن بدنه بالسدر وأن يصب الماء عليه ثالثا"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Progres Belajar | Safinah Learning</title>
+    <meta name="description" content="Lihat dashboard progres belajar dan skor kuis Kitab Safinatun Najah." />
+    <link rel="canonical" href="https://daarulazmi.ponpes.id/safinah-learning/progres.html" />
+    <meta name="theme-color" content="#0d493e" />
+    <link rel="icon" href="../assets/icons/logoDA.png" type="image/png" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/app.js" defer></script>
+    <script src="js/storage.js" defer></script>
+    <script src="js/progres.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="nav-wrap">
+        <a class="brand" href="index.html" aria-label="Safinah Learning, beranda">
+          <img src="assets/logo-daarul-azmi.png" alt="Logo Daarul Azmi" />
+          <div class="brand-text">
+            Safinah Learning
+            <small>Daarul Azmi</small>
+          </div>
+        </a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+          <span class="sr-only">Buka navigasi</span>
+          <span></span><span></span><span></span>
+        </button>
+        <nav id="primary-nav" class="primary-nav" aria-label="Navigasi utama">
+          <a href="index.html">Beranda</a>
+          <a href="belajar.html">Belajar</a>
+          <a href="kuis.html">Kuis</a>
+          <a href="latihan.html">Latihan</a>
+          <a href="progres.html">Progres</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="wrap">
+          <a class="back-link" href="index.html">← Kembali ke Beranda</a>
+          <h1 class="section-title">Progres Belajar</h1>
+          <p class="section-subtitle">Pantau perkembangan belajarmu per Bab.</p>
+
+          <div id="progres-stats" class="progres-stats"></div>
+          <div id="progres-list" class="progres-list"></div>
+
+          <div style="text-align:center;margin-top:36px;">
+            <button class="btn btn-secondary" id="reset-progres" type="button">
+              🗑️ Reset Semua Progres
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Safinah Learning — Pondok Pesantren Daarul Azmi</p>
+        <p>Materi dalam mode demo. <a href="../">Kembali ke website utama</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,193 @@
+{
+  "kuis": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Berapa jumlah Rukun Islam?",
+      "pilihan": ["3", "4", "5", "6"],
+      "jawabanBenar": 2,
+      "penjelasan": "Rukun Islam ada 5: Syahadat, Shalat, Zakat, Puasa Ramadhan, dan Haji."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Berapa jumlah Rukun Iman?",
+      "pilihan": ["4", "5", "6", "7"],
+      "jawabanBenar": 2,
+      "penjelasan": "Rukun Iman ada 6: Iman kepada Allah, Malaikat, Kitab, Rasul, Hari Akhir, dan Takdir."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Tanda baligh bagi perempuan yang berumur 9 tahun adalah?",
+      "pilihan": ["Bermimpi", "Haid", "Tumbuh kumis", "Suara berubah"],
+      "jawabanBenar": 1,
+      "penjelasan": "Salah satu tanda baligh bagi perempuan yang berumur 9 tahun adalah haid."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Berapa jumlah fardhu wudhu?",
+      "pilihan": ["4", "5", "6", "7"],
+      "jawabanBenar": 2,
+      "penjelasan": "Fardhu wudhu ada 6 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Berapa jumlah pembatal wudhu?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 2,
+      "penjelasan": "Pembatal wudhu ada 4 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Syarat sah beristinja' dengan batu, minimal menggunakan berapa batu?",
+      "pilihan": ["1", "2", "3", "4"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat sah beristinja' dengan batu adalah menggunakan minimal 3 batu."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Berapa jumlah kewajiban mandi?",
+      "pilihan": ["4", "5", "6", "7"],
+      "jawabanBenar": 2,
+      "penjelasan": "Kewajiban mandi ada 6 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Berapa jumlah fardhu mandi?",
+      "pilihan": ["1", "2", "3", "4"],
+      "jawabanBenar": 1,
+      "penjelasan": "Fardhu mandi ada 2: meratakan air ke seluruh badan dan niat."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Berapa jumlah sebab-sebab melakukan Tayammum?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 1,
+      "penjelasan": "Sebab-sebab tayammum ada 3: tidak ada air, sakit, dan membutuhkan air untuk minum hewan ternak."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Berapa jumlah syarat-syarat Tayammum?",
+      "pilihan": ["5", "8", "10", "12"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat-syarat Tayammum ada 10 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Berapa jumlah fardhu Tayammum?",
+      "pilihan": ["3", "4", "5", "6"],
+      "jawabanBenar": 2,
+      "penjelasan": "Fardhu Tayammum ada 5 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Berapa jenis najis menurut Kitab Safinatun Najah?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 1,
+      "penjelasan": "Najis ada 3 jenis: Mukaffafah, Mutawassitah, dan Mughalladhah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Najis Mughalladhah adalah najisnya?",
+      "pilihan": ["Kencing manusia", "Tinja", "Anjing dan babi", "Darah"],
+      "jawabanBenar": 2,
+      "penjelasan": "Najis Mughalladhah adalah najisnya anjing dan babi serta keturunan keduanya."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Paling sedikit masa Haid adalah?",
+      "pilihan": ["Setengah hari", "Sehari-semalam", "Dua hari", "Tiga hari"],
+      "jawabanBenar": 1,
+      "penjelasan": "Paling sedikit masa Haid adalah sehari-semalam menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Berapa jumlah syarat-syarat shalat?",
+      "pilihan": ["5", "6", "8", "10"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat-syarat shalat ada 8 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Berapa jumlah rukun shalat?",
+      "pilihan": ["12", "14", "15", "17"],
+      "jawabanBenar": 3,
+      "penjelasan": "Rukun shalat ada 17 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Hadats itu ada berapa macam?",
+      "pilihan": ["1", "2", "3", "4"],
+      "jawabanBenar": 1,
+      "penjelasan": "Hadats ada 2 macam: hadats kecil dan hadats besar."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Tingkatan niat ada berapa?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 1,
+      "penjelasan": "Tingkatan niat ada 3 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Syarat takbiratul Ihram ada berapa?",
+      "pilihan": ["4", "5", "6", "7"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat takbiratul Ihram ada 6 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Syarat membaca Al-Fatihah ada berapa?",
+      "pilihan": ["8", "9", "10", "11"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat membaca Al-Fatihah ada 10 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Syarat Sujud ada berapa?",
+      "pilihan": ["5", "6", "7", "8"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat Sujud ada 7 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Waktu Shalat wajib ada berapa?",
+      "pilihan": ["3", "4", "5", "6"],
+      "jawabanBenar": 2,
+      "penjelasan": "Waktu Shalat wajib ada 5: Subuh, Dzuhur, Ashar, Maghrib, dan Isya."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Berapa jumlah hal yang membatalkan shalat?",
+      "pilihan": ["10", "12", "14", "16"],
+      "jawabanBenar": 2,
+      "penjelasan": "Batalnya shalat ada 14 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Syarat mengikuti seseorang menjadi makmum ada berapa?",
+      "pilihan": ["8", "9", "10", "11"],
+      "jawabanBenar": 3,
+      "penjelasan": "Syarat mengikuti seseorang menjadi makmum ada 11 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Rukun 2 khutbah ada berapa?",
+      "pilihan": ["3", "4", "5", "6"],
+      "jawabanBenar": 2,
+      "penjelasan": "Rukun 2 khutbah ada 5 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Syarat 2 khutbah ada berapa?",
+      "pilihan": ["8", "9", "10", "11"],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarat 2 khutbah ada 10 menurut Kitab Safinatun Najah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Kewajiban bagi mayyit ada berapa?",
+      "pilihan": ["2", "3", "4", "5"],
+      "jawabanBenar": 2,
+      "penjelasan": "Kewajiban bagi mayyit ada 4: memandikan, mengkafani, menshalati, dan menguburkan."
+    }
+  ]
+}
