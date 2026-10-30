@@ -14,16 +14,16 @@
       "materi": "Materi ini membahas lima Rukun Islam dan enam Rukun Iman sebagai fondasi keimanan seorang Muslim, serta pengertian La ilaha illallah dan tanda-tanda baligh.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Rukun Islam dan Rukun Iman",
       "arabText": [
-        "شھادة أن الإله إالﷲ وأن محمد رسول ﷲ وإقام الصالة ، رمضان ، وحج البيت من استطاع إليه",
-        "أن تؤمن باͿ  ، ومالئكته، وكتبه ورسوله،  وباليوم اآلخر ، . وبالقدر خيره وشره من ﷲ تعالى",
-        "المعبود بحق في الوجود إال ﷲ",
-        "تمام خمس عشرة سنه في الذكرواألنثى ، واالحتالم في ال واألنثى لتسع سنين ، و الحيض في األنثى لتسع سنين"
+        "شَهَادَةُ أَن لَّا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامُ الصَّلَاةِ، وَإِيتَاءُ الزَّكَاةِ، وَصَوْمُ رَمَضَانَ، وَحَجُّ الْبَيْتِ مَن اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
+        "أَن تُؤْمِنَ بِاللَّهِ، وَمَلَائِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَبِالْيَوْمِ الْآخِرِ، وَبِالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللَّهِ تَعَالَى",
+        "لَا مَعْبُودَ بِحَقٍّ فِي الْوُجُودِ إِلَّا اللَّهُ",
+        "تَمَامُ خَمْسَ عَشْرَةَ سَنَةً فِي الذَّكَرِ وَالْأُنْثَى، وَالِاحْتِلَامُ فِي الذَّكَرِ وَالْأُنْثَى لِتِسْعِ سِنِينَ، وَالْحَيْضُ فِي الْأُنْثَى لِتِسْعِ سِنِينَ"
       ],
       "transliterasi": [
-        "Syahadata an-lailaha illallah wa anna Muhammadan rasulullah, wa iqamatish-shalah, wa zit-zakah, wa shaum Ramadlan, wa hajjal-baiti man istatha'a ilaihi sabilan.",
-        "An tu'mina billah, wa mala'ikatihi, wa kutubihi, wa rusulih, wa bil-yumil-akhir, wa bil-qadri khairuh wa syarruh minallah ta'ala.",
-        "Al-ma'budu bi haqqin fil-wujud illallah.",
-        "Tammakh-khamsa 'asyura sanah fidz-dzakari wal-untsya, wal-ihthalam fidz-dzakari wal-untsya li-tsaiti sinin, wal-haid fil-untsya li-tsaiti sinin."
+        "Syahādatu an lā ilāha illallāhu wa anna Muḥammadan rasūlullāhi, wa iqāmuṣ-ṣalāh, wa ītā'uz-zakāh, wa ṣawmu Ramaḍāna, wa ḥajjul-bayti man staṭā'a ilaihi sabīlan.",
+        "An tu'mina billāhi, wa malā'ikatihi, wa kutubihi, wa rusulihi, wa bil-yawmil-ākhir, wa bil-qadari khairihi wa syarrihi minallāhi ta'ālā.",
+        "Lā ma'būdu bi ḥaqqin fīl-wujūdi illallāhu.",
+        "Tamāmu khamsa 'asyurata sanatan fidz-dzakari wal-untsā, wal-iḥtilāmu fidz-dzakari wal-untsā li-tsī'i sinīna, wal-ḥaiḍu fil-untsā li-tsī'i sinīna."
       ],
       "terjemahan": [
         "Syahadat bahwa tidak ada Tuhan selain Allah dan Muhammad adalah utusan Allah, serta menegakkan shalat, membayar zakat, berpuasa Ramadhan, dan haji ke Baitullah bagi yang mampu.",
@@ -49,22 +49,22 @@
       "materi": "Materi ini membahas cara bersuci dengan istinja' menggunakan batu, fardhu wudhu, niat wudhu, pembagian air, syarat wudhu, pembatal wudhu, dan larangan bagi orang yang wudhunya batal.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Istinja' dan Wudhu",
       "arabText": [
-        "شروط إجزاء الحَجَرْ ثمانية أن يكون بثالثة أحجار ، وأن ينقي المحل ، وأن ال يجف النجس ، وال ينتقل ، وال يطرأ عليه آخر ،  وال يجاوز صفحته وحشفته  ، وال يصيبه ماء ، وأن تكون األحجار طاھرة مسح شيء من الرأس ، الخامس غسل الرجلين مع الكعبين ، السادس",
-        "قصد الشيء مقترنا بفعله ، ومحلھا القلب والتلفظ بھا سنة ، ووقتھا عند غسل أول جزء من الوجه  ، والترتيب أن ال يقدم عضو على عضو",
-        "القليل مادون القلتين ، والكثير قلتان فأكثر النجاسة فيه وإن لم يتغير والماء الكثير ال يتنجس إال إذا تغير",
-        "إيالج الحشفة في الفرج ، وخروج المنى والحيض والنفاس",
-        "اإلسالم ، والتمييز ، والنقاء ، عن الحيض  ، والنفاس ، وصول الماء إلى البشرة ، وأن ال يكون على العضو ما يغير الماء الطھور ، ودخول الوقت  ، والمواالة لدائم الحدث",
-        "نوا قض الوضوء أربعة أشياء الخارج من أحد السبيلين من قبل أو دبر ريح زوال العقل بنوم أو غيره إال نوم قاعد ، ممكن مقعده من وامرأة كبيرين من غير حائل  ، اآلدمي أو حلقة دبره ببطن الراحة أو بطون األصابع",
-        "من انتقض وضوؤه حرم عليه أربعه أشياء ويحرم على الجنب ستة أشياء الصالة والطواف ومس المصحف وحمله واللبث في المسجد ويحرم بالحيض عشرة أشياء الصالة والطواف ومس المصحف وحمله واللبث في المسجد وقراءة  القرآن والصوم والطالق والمرور في المسجد إن خافت تلويثه واال"
+        "شُرُوطُ إِجْزَاءِ الْحَجَرِ ثَمَانِيَةٌ: أَن يَكُونَ بِثَلَاثَةِ أَحْجَارَ، وَأَن يَنْقِيَ الْمَحَلَّ، وَأَن لَا يَجِفَّ النَّجِسُ، وَلَا يَنْتَقِلَ، وَلَا يَطْرَأُ عَلَيْهِ آخَرُ، وَلَا يَجَاوِزَ صَفْحَتَهُ وَحَشَفَتَهُ، وَلَا يَصِبَّهُ مَاءٌ، وَأَن تَكُونَ الْأَحْجَارُ طَاهِرَةً",
+        "فُرُوضُ الْوُضُوءِ سِتَّةٌ: الْأَوَّلُ: النِّيَّةُ، الثَّانِي: غَسْلُ الْوَجْهِ، الثَّالِثُ: غَسْلُ الْيَدَيْنِ مَعَ الْمِرْفَقَيْنِ، الرَّابِعُ: مَسْحُ شَيْءٍ مِنَ الرَّأْسِ، الْخَامِسُ: غَسْلُ الرِّجْلَيْنِ مَعَ الْكَعْبَيْنِ، السَّادِسُ: التَّرْتِيبُ",
+        "النِّيَّةُ: قَصْدُ الشَّيْءِ مُقْتَرِنًا بِفَعْلِهِ، وَمَحَلُّهَا الْقَلْبُ وَالتَّلَفُّظُ بِهَا سُنَّةٌ، وَوَقْتُهَا عِنْدَ غَسْلِ أَوَّلِ جُزْءٍ مِنَ الْوَجْهِ، وَالتَّرْتِيبُ أَن لَا يَقْدِمَ عَضُوًّا عَلَى عَضُوٍّ",
+        "الْمَاءُ قَلِيلٌ وَكَثِيرٌ: الْقَلِيلُ مَا دُونَ الْقَلْتَيْنِ، وَالْكَثِيرُ قَلْتَانِ فَأَكْثَرُ. الْقَلِيلُ يَتَنَجَّسُ بِوُقُوعِ النَّجَاسَةِ فِيهِ وَإِن لَمْ يَتَغَيَّرْ، وَالْمَاءُ الْكَثِيرُ لَا يَتَنَجَّسُ إِلَّا إِذَا تَغَيَّرَ",
+        "شُرُوطُ الْوُضُوءِ عَشَرَةٌ: الْإِسْلَامُ، وَالتَّمْيِيزُ، وَالنَّقَاءُ عَنِ الْحَيْضِ، وَالنِّفَاسِ، وَوُصُولُ الْمَاءِ إِلَى الْبُشَرَةِ، وَأَن لَا يَكُونَ عَلَى الْعَضْوِ مَا يُغَيِّرُ الْمَاءَ الطَّاهِرَ، وَدُخُولُ الْوَقْتِ، وَالْمُوَالَاةُ لِدَائِمِ الْحَدَثِ",
+        "نَوَاقِضُ الْوُضُوءِ أَرْبَعَةُ أَشْيَاءَ: الْخَارِجُ مِنْ أَحَدِ السَّبِيلَيْنِ مِنْ قَبَلٍ أَوْ دُبُرٍ، رِيحٌ، زَوَالُ الْعَقْلِ بِنَوْمٍ أَوْ غَيْرِهِ إِلَّا نَوْمَ قَاعِدٍ مُمْسِكٍ مَقْعَدَهُ، وَامْرَأَةٌ بِكْرٌ كَبِيرَةٌ مِنْ غَيْرِ حَائِلٍ، الْأَدِيمُ أَوْ حَلْقَةُ دُبُرِهِ بِبَطْنِ الرَّاحَةِ أَوْ بِطُونِ الْأَصَابِعِ",
+        "مَنْ انْتَقَضَ وَضُوءُهُ حُرِمَ عَلَيْهِ أَرْبَعَةُ أَشْيَاءَ: الصَّلَاةُ وَالطَّوَافُ وَمَسُّ الْمُصْحَفِ وَحَمْلُهُ وَاللَّبْثُ فِي الْمَسْجِدِ. وَيَحْرُمُ عَلَى الْجُنُبِ سِتَّةَ أَشْيَاءَ: الصَّلَاةُ وَالطَّوَافُ وَمَسُّ الْمُصْحَفِ وَحَمْلُهُ وَاللَّبْثُ فِي الْمَسْجِدِ وَقِرَاءَةُ الْقُرْآنِ. وَيَحْرُمُ بِالْحَيْضِ عَشَرَةَ أَشْيَاءَ: الصَّلَاةُ وَالطَّوَافُ وَمَسُّ الْمُصْحَفِ وَحَمْلُهُ وَاللَّبْثُ فِي الْمَسْجِدِ وَقِرَاءَةُ الْقُرْآنِ وَالصَّوْمُ وَالطَّلَاقُ وَالْمُرُورُ فِي الْمَسْجِدِ إِنْ خَافَتْ تَلْوِيثَهُ وَالِاسْتِمْتَاعُ بِمَا بَيْنَ السُّرَةِ وَالرُّكْبَةِ"
       ],
       "transliterasi": [
-        "Syurutu ija'zil-hajar tsamaniyah: an yakuna bi tsalatsati ahjar, wa an yanqihal-mahal, wa an la yajfal-najas, wa la yantaqil, wa la yathru'a 'alaihi akhar, wa la yajauza shafhatihi wa hasyafatah, wa la yashibuha ma', wa an takunal-ahjaru tahurat. Masihu syai'un mir-ra's, khomisun ghuslu rijlaini ma'a ka'bayn, sadsun.",
-        "Qashdusy-syai'i muqtaranan bi fi'lih, wa mahalluhu al-qalbu wat-talfuzu biha sunnah, wa waqtuhu 'inda ghusli awwal juzu'in minal-wajh, wat-tartibu an la yaqdim 'adzun 'ala 'adzin.",
-        "Al-qalilu madunal-qalatain, wal-katsiru qalatan fa aktsar. An tanajasal-ma'u wa in lam yutaghayyar, wal-ma'ul-katsiru la yatanajasu illa idza taghayyar.",
-        "Idzhalul-hasyafah fil-farj, wa khurujil-manii wal-haid wan-nifas.",
-        "Al-Islam, at-tamyiz, an yakunaniqaya 'anil-haid, wan-nifas, wasuulul-ma' ilal-bushrah, wa an la yakuna 'alal-'adzi ma yughayyiral-ma' at-thahur, wa dukhulul-waqt, wal-muwalah lidaimil-hadats.",
-        "An-qadhi al-wudhu' arba'atu asya': al-khariju min ahadisabilaini min qabil au dabr, riuh, zaualul-'aqli binawm au ghairih illa nawmun qa'id, mumsikun maq'adahum, wa amratun kabirotaini min ghairi ha'il, al-adami au halqatu dabrabi bathnil-rahmah au bathunal-asabi'",
-        "Man intaqadha wudhu'uhu harima 'alaihi arba'a asya': ash-shalah wat-tawaf, wa masul-mushaf wa hamlah, wal-labuts fil-masjid. Wa harima 'alal-junubi sittu asya'. Wa harima bil-haidi 'asyarata asya'."
+        "Syurūṭu ijzā'il-ḥajari tsamāniyah: an yakuna bi tsalāthi aḥjāra, wa an yanqīal-maḥalla, wa an lā yajiffan-najisu, wa lā yantaqila, wa lā yaṭra'u 'alaihi ākharu, wa lā yājīza ṣafḥatahu wa ḥasyafatahu, wa lā yaṣibbahu mā'un, wa an takunal-aḥjāru ṭāhirah.",
+        "Furūḍul-wuḍū'i sittah: al-awwal: an-niyyah, ats-tsāni: ghuslul-wajh, ats-tsālits: ghuslul-yadayni ma'al-mirfaqayn, ar-rābi': masḥu syai'un minar-ra's, al-khāmiṣ: ghuslur-rijlayni ma'al-ka'bain, as-sādis: at-tartīb.",
+        "An-niyyah: qashdusy-syai'i muqtaranan bi fi'lih, wa maḥalluhul-qalbu wat-talfuzu bihā sunnah, wa waqtuhā 'inda ghusli awwal juzu'in minal-wajh, wat-tartību an lā yaqdma 'adzuwan 'alā 'adzuw.",
+        "Al-mā'u qalīlun wa katsīr: al-qalīlu mā dūnal-qaltaini, wal-katsīru qaltāni fa aktsar. Al-qalīlu yatanajjasu biwuqū'il-najāsati fīhi wa in lam yutaghayyar, wal-mā'ul-katsīru lā yatanajjasu illā idzā taghayyar.",
+        "Syurūṭul-wuḍū'i 'asyarah: al-Islām, at-tamyīz, an-naqā'u 'anil-ḥaiḍi wan-nifās, waṣūlul-mā'i ilal-buṣrah, wa an lā yakuna 'alal-'adzi mā yughayyiral-mā'a ṭāhir, wa dukhulul-waqt, wal-muwalāh lidā'imil-ḥadats.",
+        "Nawāqiḍul-wuḍū'i arba'atu asyā': al-khāriju min aḥadisabilaini min qabil au dubur, rīḥ, zawālul-'aqli binawmin au ghairih illā nawma qā'idin mumsikin maq'adahu, wa amra'atun bikrun kabiirah min ghairi ḥā'il, al-ādim au ḥalqatu duburihi bibaṭnil-rāḥah au biṭūnil-aṣābi'.",
+        "Man intaqaḍa wuḍū'uhu ḥurima 'alaihi arba'atu asyā': aṣ-ṣalāh waṭ-ṭawāfu wa masul-muṣḥaf wa ḥamlahu wallabts fil-masjid. Wa yaḥramu 'alal-junubi sittata asyā': aṣ-ṣalāh waṭ-ṭawāfu wa masul-muṣḥaf wa ḥamlahu wallabts fil-masjid wa qirā'atul-Qur'ān. Wa yaḥramu bil-ḥaiḍi 'asyarata asyā': aṣ-ṣalāh waṭ-ṭawāfu wa masul-muṣḥaf wa ḥamlahu wallabts fil-masjid wa qirā'atul-Qur'ān waṣ-ṣawmu waṭ-ṭalāqu wal-murūru fil-masjid in khāfat tawlīthahu wal-istimṭā'u bīmā bainaṣ-ṣurati war-rukbah."
       ],
       "terjemahan": [
         "Syarat sah istinja' dengan batu ada 8: menggunakan 3 batu, bersih, tidak kering najis, tidak berpindah, tidak ada yang menempel, tidak melebihi tempat, tidak terkena air, dan batu suci. Mengusap kepala, kelima: membasuh kedua kaki termasuk mata kaki, keenam.",
@@ -88,16 +88,16 @@
       "materi": "Materi ini membahas enam kewajiban mandi wajib dan dua fardhu mandi dalam Islam.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Mandi Wajib",
       "arabText": [
-        "النية ، وتعميم البدن بالماء",
-        ""
+        "نَوَاقِضُ الْوُضُوءِ أَرْبَعَةٌ: إِدْخَالُ الْحَشَفَةِ فِى الْفَرْجِ، وَخُرُوجُ الْمَنِيِّ، وَالْحَيْضُ، وَالنِّفَاسُ",
+        "فُرُوضُ الْغُسْلِ اثْنَانِ: النِّيَّةُ، وَتَعْمِيمُ الْبَدَنِ بِالْمَاءِ"
       ],
       "transliterasi": [
-        "An-niyyah, wa ta'immil-badani bil-ma'.",
-        ""
+        "Nawāqiḍul-wuḍū'i arba'ah: idkhālul-ḥasyafati fīl-farji, wa khurūjul-manīyi, wal-ḥaiḍu, wan-nifāsu.",
+        "Furūḍul-ghusli ithnān: an-niyyah, wa ta'mīmul-badani bil-mā'i."
       ],
       "terjemahan": [
-        "Niat, dan meratakan air ke seluruh badan.",
-        ""
+        "Pembatal wudhu ada 4: masuknya kepala penis ke dalam farji, keluarnya mani, haid, dan nifas.",
+        "Fardhu mandi ada 2: niat, dan meratakan air ke seluruh badan."
       ]
     },
     {
@@ -114,22 +114,22 @@
       "materi": "Materi ini membahas tiga sebab melakukan tayammum, sepuluh syarat tayammum, lima fardhu tayammum, dan hal-hal yang membatalkan tayammum.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Tayammum",
       "arabText": [
-        "فقد الماء ، والمرض ، واالحتياج إليه لعطش حيوان محترم تارك الصالة والزاني المحصن والمرتد والكافر الحربي والكلب العقور",
-        "أن يكون بتراب وان يكون التراب طاھرا وأن ال يكون مستعمال وال يخالطه دقيق ونحوه وأن يقصده وأن يمسح وجھه ويديه بضربتين وأن يزيل النجاسة أوال وأن يجتھد في القبلة قبله وأن يكون التيمم بعد دخول الوقت وأن يتيمم لكل فرض",
-        "مسح اليدين إلى المرفقين ، الخامس",
-        "ما أبطل الوضوء والردة وتوھم الماء إن تيمم لفقده والشك"
+        "أَسْبَابُ التَّيَمُّمِ ثَلَاثَةٌ: فَقْدُ الْمَاءِ، وَالْمَرَضُ، وَالِاحْتِيَاجُ إِلَيْهِ لِعَطَشِ حَيَوَانٍ مُحْتَرَمٍ. غَيْرُ الْمُحْتَرَمِ سِتَّةٌ: تَارِكُ الصَّلَاةِ وَالزَّانِي الْمُحْصَنُ وَالْمُرْتَدُّ وَالْكَافِرُ الْحَرْبِيُّ وَالْكَلْبُ الْعَقُورُ وَالْخَنْزِيرُ",
+        "شُرُوطُ التَّيَمُّمِ عَشَرَةٌ: أَن يَكُونَ بِتُرَابٍ، وَأَن يَكُونَ التُّرَابُ طَاهِرًا، وَأَن لَا يَكُونَ مُسْتَعْمَلًا، وَلَا يَخَالِطَهْ دَقِيقٌ وَنَحْوُهْ، وَأَن يَقْصِدَهْ، وَأَن يَمْسَحَ وَجْهَهْ وَيَدَيْهِ بِضَرْبَتَيْنِ، وَأَن يُزِيلَ النَّجَاسَةَ أَوَّلًا، وَأَن يَجْتَهِدَ فِى الْقِبْلَةِ قَبْلَهْ، وَأَن يَكُونَ التَّيَمُّمُ بَعْدَ دُخُولِ الْوَقْتِ، وَأَن يَتَيَمَّمَ لِكُلِّ فَرْضٍ",
+        "فُرُوضُ التَّيَمُّمِ اثْنَانِ: مَسْحُ الْوَجْهِ، وَمَسْحُ الْيَدَيْنِ إِلَى الْمِرْفَقَيْنِ",
+        "مَا أَبْطَلَ الْوُضُوءَ، وَالرِّدَّةُ، وَتَوَهُّمُ الْمَاءِ إِنِ تَيَمَّمَ لِفَقْدِهِ، وَالشَّكُّ"
       ],
       "transliterasi": [
-        "Faqdul-ma'i, wal-maradhu, wal-ihtiyaju ilaihi li 'athasy hayawan muhtaram.",
-        "An yakuna biturabin, wa an yakunal-turabu tahiran, wa an la yakuna musta'malan, wa an yamsha wajhahu wa yadaihi bidharbatain.",
-        "Mas-hul-yadaini ilal-mirfaqaini.",
-        "Ma abthalal-wudhu'a war-riddatu wa tawahhumul-ma'i in tayammama li faqdi wa asy-syakk."
+        "Asbābut-tayammumi tsalāthatun: faqdul-mā'i, wal-maraḍu, wal-iḥtiyāju ilaihi li'atasyi ḥayawānin muḥtaramin. Ghairul-muḥtarami sittah: tārikhuṣ-ṣalāti waz-zānil-muḥṣanu wal-muraddu wal-kāfirul-ḥarbiyyu wal-kalbul-'aqūru wal-khinzīru.",
+        "Syurūṭut-tayammumi 'asyarun: an yakūna biturābin, wa an yakonat-turābu ṭāhiran, wa an lā yakūna musta'malan, wa lā ykhāliṭah daqīqun wa naḥwuh, wa an yaqṣidah, wa an yamsaḥa wajjah wa yadayhi biḍarbatayn, wa an yuzīlan-najāsa awwalan, wa an yajtahida fīl-qiblati qablah, wa an yakūnat-tayammumu ba'da dukhūlil-waqti, wa an yatayammama likulli fardi.",
+        "Furūḍut-tayammumi ithnān: masḥul-wajhi, wa masḥul-yadaynī ilal-mirfaqayn.",
+        "Mā abṭalal-wuḍū'a, war-riddah, wa tawahhumul-mā'i in tayammama lifaqdihi, wasy-syakk."
       ],
       "terjemahan": [
-        "Tayammum dilakukan karena tidak ada air, sakit, atau air dibutuhkan untuk memberi minum hewan yang dihormati.",
-        "Tayammum menggunakan debu yang suci dan belum dipakai, tidak tercampur tepung atau sejenisnya, disertai niat; mengusap wajah dan kedua tangan dengan dua kali tepukan; membersihkan najis terlebih dahulu; berusaha menentukan arah kiblat; dilakukan setelah masuk waktu; dan diulang untuk setiap shalat fardhu.",
-        "Mengusap kedua tangan sampai siku; ini adalah rukun yang kelima.",
-        "Tayammum batal karena hal yang membatalkan wudhu, murtad, mengira telah menemukan air setelah tayammum karena tidak ada air, dan ragu."
+        "Sebab tayammum ada 3: tidak ada air, sakit, atau air dibutuhkan untuk memberi minum hewan yang dihormati. Hewan yang tidak dihormati ada 6: orang yang meninggalkan shalat, pezina yang sudah menikah, murtad, kafir harbi, anjing galak, dan babi.",
+        "Syarat tayammum ada 10: menggunakan tanah, tanah suci, belum dipakai, tidak tercampur tepung atau sejenisnya, disertai niat, mengusap wajah dan kedua tangan dengan dua kali tepukan, membersihkan najis terlebih dahulu, berusaha menentukan arah kiblat sebelum tayammum, dilakukan setelah masuk waktu, dan diulang untuk setiap shalat fardhu.",
+        "Fardhu tayammum ada 2: mengusap wajah, dan mengusap kedua tangan sampai siku.",
+        "Yang membatalkan tayammum: hal yang membatalkan wudhu, murtad, mengira telah menemukan air setelah tayammum karena tidak ada air, dan ragu."
       ]
     },
     {
@@ -146,16 +146,16 @@
       "materi": "Materi ini membahas tiga jenis najis, benda-benda najis yang bisa menjadi suci, cara mensucikan najis mughalladhah, serta ketentuan masa haid.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Najis dan Haid",
       "arabText": [
-        "الذي يظھر من النجاسة ثالثة الخمر إذا تخللت بنفسھا وجلد الميتة إذا دبغ وما",
-        "نجاسة الكلب والخنزير وفرع بول الصبي الذي لم يطعم غير اللبن ولم يبلغ الحولين",
-        "تطھر بسبع غسالت بعد إزالة عينھا ،إحداھن بتراب برش الماء عليھا مع الغلبة وإزالة عينھا والمتوسطة تنقسم إلى قسمين التي لھا لون وريح وطعم فال بد م إزالة لونھا وريحھا وطعمھا التي ال لون لھا وال ريح والطعم لھا يكفيك جري",
-        "ستة أوسبع وأكثره خمسة عشرة يوما بلياليھا الطھر بين الحيضتين خمسة عشرة يوما وغالبه أربعة وعشرون يوما أو ثالثة وعشرون يوما أقل النفاس مجة وغالبة أربعون يوما وأكثرة ستون يوما"
+        "الَّذِي يَظْهَرُ مِنَ النَّجَاسَةِ ثَلَاثَةٌ: الْخَمْرُ إِنْ تَحَلَّلَتْ بِنَفْسِهَا، وَجِلْدُ الْمَيِّتَةِ إِنْ دُبِغَ، وَمَا سِوَاهُمَا",
+        "النَّجَاسَةُ ثَلَاثٌ: مُغَلَّظَةٌ، وَمُتَوَسِّطَةٌ، وَمُخَفَّفَةٌ. الْمُغَلَّظَةُ ثَلَاثٌ: نَجَاسَةُ الْكَلْبِ، وَالْخَنْزِيرِ، وَفَرْعُ بَوْلِ الصَّبِيِّ الَّذِي لَمْ يَطْعَمْ غَيْرَ الْلَّبَنِ وَلَمْ يَبْلُغِ الْحَوْلَيْنِ",
+        "تَطْهَرُ بِسَبْعِ غَسْلَاتٍ بَعْدَ إِزَالَةِ عَيْنِهَا، إِحْدَاهُنَّ بِتُرَابٍ بِرَشِّ الْمَاءِ عَلَيْهَا مَعَ الِاغْتِلَابِ. وَالْمُتَوَسِّطَةُ تَنْقَسِمُ إِلَى قِسْمَيْنِ: عَيْنِيَّةٌ وَحُكْمِيَّةٌ. الْعَيْنِيَّةُ: الَّتِي لَهَا لَوْنٌ وَرِيحٌ وَطَعْمٌ فَلَا بَدَّ مِنْ إِزَالَةِ لَوْنِهَا وَرِيحِهَا وَطَعْمِهَا. وَالْحُكْمِيَّةُ: الَّتِي لَا لَوْنَ لَهَا وَلَا رِيحَ وَلَا طَعْمَ لَهَا يَكْفِيكَ جَرِيءُ الْمَاءِ عَلَيْهَا",
+        "أَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَغَالِبُهْ سِتَّةٌ أَوْ سَبْعَةٌ، وَأَكْثَرُهْ خَمْسَ عَشْرَةَ يَوْمًا بِلَيَالِيهَا. أَقَلُّ الطُّهْرِ بَيْنَ الْحَيْضَتَيْنِ خَمْسَ عَشْرَةَ يَوْمًا، وَغَالِبُهْ أَرْبَعَةٌ وَعِشْرُونَ يَوْمًا أَوْ ثَلَاثَةٌ وَعِشْرُونَ يَوْمًا، وَلَا حَدَّ لِأَكْثَرِهْ. أَقَلُّ النِّفَاسِ مَجَّةٌ، وَغَالِبُهْ أَرْبَعُونَ يَوْمًا، وَأَكْثَرُهْ سِتُّونَ يَوْمًا"
       ],
       "transliterasi": [
-        "Alladzi yazhharu minan-najasati tsalatsah: al-khamru idza takhallalat binafsiha, wa jildu al-mayyitati idza dubigha.",
-        "Najasatul-kalbi wal-khinziri wa far'u bawli ash-shabiyyi alladzi lam yath'am ghairal-labani wa lam yablughil-haulain.",
-        "Tathhuru bisab'i ghaslatin ba'da izalati 'ainiha; ihdahunna biturabin ... wal-mutawassithatu tanqashimu ila qismain.",
-        "Aqallu al-haidhi yaumun wa lailatun, wa aktsaruhu khamsata 'asyara yauman; wa aqallu an-nifasi majjatun, wa ghalibuhu arba'una yauman wa aktsaruhu sittuna yauman."
+        "Alladhī yaẓharu minan-najāsati tsalāthatun: al-khamru in taḥallalat binafsihā, wa jildul-mayyitati in dubigha, wa mā siwāhumā.",
+        "An-najāsatu tsalātsun: mughallaẓatun, wa mutawassitatun, wa mukhaffafatun. Al-mughallaẓatu tsalātsun: najāsatul-kalbi, wal-khinzīri, wa far'u bawliṣ-ṣabīyi alladhī lam yaṭ'am ghiral-labani wa lam yablughil-ḥaulain.",
+        "Taṭharu bisab'i ghaslatin ba'da izālati 'ainihā, iḥdāhunna biturābin birasy al-mā'i 'alayhā ma'al-ightilāb. Wal-mutawassīdatu tanqasimu ilā qismayn: 'ainiyyatun wa ḥukmiyyatun. Al-'ainiyyatu: allatī lahā lawnun wa rīḥun wa ṭa'mun falā badda min izālati lawnihā wa rīhihā wa ṭa'mihā. Wal-ḥukmiyyatu: allatī lā lawna lahā wa lā rīḥa wa lā ṭa'ma lahā yakfīki jarī'ul-mā'i 'alayhā.",
+        "Aqallul-ḥaiḍi yawmun wa lailatun, wa ghālibuh sittatun au sab'atun, wa aktsaruh khamsa 'asyarata yawman bilayālihi. Aqalluṭ-ṭuhri baynal-ḥaiḍatayn khamsa 'asyarata yawman, wa ghālibuh arba'atun wa 'isyūna yawman au tsalātsun wa 'isyūna yawman, wa lā ḥadda li-aktsarih. Aqallun-nifāsi majjatun, wa ghālibuh arba'ūna yawman, wa aktsaruh sittūna yawman."
       ],
       "terjemahan": [
         "Di antara benda najis yang dapat menjadi suci adalah khamr yang berubah menjadi cuka dengan sendirinya dan kulit bangkai yang disamak.",
@@ -179,25 +179,25 @@
       "materi": "Materi ini membahas udzur shalat, delapan syarat shalat, dua macam hadats, pembagian aurat menjadi 4, dan tujuh belas rukun shalat.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Syarat dan Rukun Shalat",
       "arabText": [
-        "طھارة الحدثين والطھارة عن النجاسة في الثوب والبدن والمكان وستر العورة واستقبال القبلة ودخول الوقت والعلم بفريضتة وأن اليعتقد فرضا من فروضھا سنة واجتناب المبطالت فاألصغر ماأوجب الوضوء عورة الرجل مطلقا واألمة في الصالة ما بين السرة والركبة",
-        "أركان الصالة سبعة عشر األول النية ،الثاني تكبيرة اإلحرام ، الثالث القيام على القادر في الفرض ،الرابع قراءة الفاتحة ، الخامس الركوع ، السادس الطمأنينة فية ، السابع اإلعتدال ،الثامن الطمأنينة فيه ، التاسع السجود مرتين ،العاشر الطمأنينة فية ، الحادي عشر الجلوس بين السجدتين  ، الثاني عشر الطمأنينة فية ،الثالث عشر التشھد األخير ،الرابع عشر القعود فيه ،الخامس عشر الصالة على النبي صلى ﷲ عليه وسلم ،السادس عشر السالم",
-        "",
-        "",
-        ""
+        "أَعْدَارُ الصَّلاَةِ اثْنَانِ: النَّوْمُ وَالنَّسْيَانُ",
+        "شُرُوطُ الصَّلاَةِ ثَمَانِيَةٌ: طُهْرَةُ الْحَدَثَيْنِ، وَطُهْرَةُ الثَّوْبِ وَالْبَدَنِ وَالْمَكَانِ عَنِ النَّجَاسَةِ، وَسَتْرُ الْعَوْرَةِ، وَاسْتِقْبَالُ الْقِبْلَةِ، وَدُخُولُ الْوَقْتِ، وَالْعِلْمُ بِفَرِيضَتِهْ، وَأَن لَا يَعْتَقِدَ فَرْضًا مِنْ فُرُوضِهَا سُنَّةً، وَاجْتِنَابُ الْمُبْطِلَاتِ",
+        "الْعَوْرَاتُ أَرْبَعٌ: عَوْرَةُ الرَّجُلِ مُطْلَقًا، وَالْأَمَةُ فِى الصَّلاَةِ مَا بَيْنَ السُّرَةِ وَالرُّكْبَةِ",
+        "أَرْكَانُ الصَّلاَةِ سَبْعَةٌ عَشَرًا: الْأَوَّلُ: النِّيَّةُ، الثَّانِي: تَكْبِيرَةُ الِاحْرَامِ، الثَّالِثُ: الْقِيَامُ عَلَى الْقَادِرِ فِى الْفَرْضِ، الرَّابِعُ: قِرَاءَةُ الْفَاتِحَةِ، الْخَامِسُ: الرُّكُوعُ، السَّادِسُ: الطُّمَأْنِينَةُ فِيهْ، السَّابِعُ: الِاعْتِدَالُ، الثَّامِنُ: الطُّمَأْنِينَةُ فِيهْ، التَّاسِعُ: السُّجُودُ مَرَّتَيْنِ، الْعَاشِرُ: الطُّمَأْنِينَةُ فِيهْ، الْحَادِي عَشَرُ: الْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ، الثَّانِي عَشَرُ: الطُّمَأْنِينَةُ فِيهْ، الثَّالِثُ عَشَرُ: التَّشَهُّدُ الْآخِرُ، الرَّابِعُ عَشَرُ: الْقُعُودُ فِيهْ، الْخَامِسُ عَشَرُ: الصَّلاَةُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، السَّادِسُ عَشَرُ: السَّلاَمُ، السَّابِعُ عَشَرُ: التَّرتِيبُ",
+        "الْأَرْكَانُ الَّتِي تَلْزَمُهَا الطُّمَأْنِينَةُ أَرْبَعَةٌ: الرُّكُوعُ، وَالِاعْتِدَالُ، وَالسُّجُودُ، وَالْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ. وَهِيَ السُّكُونُ بَعْدَ حَرَكَةٍ حَيْثُ يَسْتَقِرُّ كُلُّ عَضْوٍ"
       ],
       "transliterasi": [
-        "Thaharatul-hadatsaini, wath-thaharah 'anin-najasati, wa satrul-'aurati, wa istiqbalul-qiblati, wa dukhulul-waqti, wal-'ilmu bifardhiha, wa ijtinabul-mubthilati.",
-        "Arkanush-shalati sab'ata 'asyara: al-awwalu an-niyyah, ats-tsani takbiratul-ihram, ats-tsalitsu al-qiyam, ar-rabi'u qira'atul-fatihah, al-khamisu ar-ruku', wa ...",
-        "",
-        "",
-        ""
+        "A'dāruṣ-ṣalāti ithnān: an-nawmu wan-nasyān.",
+        "Syurūṭuṣ-ṣalāti tsamāniyatun: tuhratul-ḥadatsain, tuhratu tsāubil-badani wal-makāni 'anin-najāsa, satrul-'aurah, istiqbālul-qiblah, dukhūlul-waqt, al-'ilmu bariḍatih, wa an lā ya'taqida fardhan min furūḍihā sunnah, wajtinābul-mubṭilāt.",
+        "Al-'aurātu arba'un: 'auratur-rajuli muṭlaqan, wal-amatū fiṣ-ṣalāti mā baynas-surati war-rukbah.",
+        "Arkānuṣ-ṣalāti sab'atun 'asyaran: al-awwal: an-niyyah, ats-tsāni: takbīratul-iḥrām, ats-tsālits: al-qiyāmu 'alal-qādiri fil-farḍ, ar-rābi': qirā'atul-fātiḥah, al-khāmiṣ: ar-rukū', as-sādis: aṭ-ṭuma'nīnahu fīh, as-sābi': al-i'tidāl, ats-tsāmin: aṭ-ṭuma'nīnahu fīh, at-tāsi': as-sujūdu marratayn, al-'āsyr: aṭ-ṭuma'nīnahu fīh, al-ḥādī 'asyar: al-julūsu baynas-sajdatayn, ats-tsānī 'asyar: aṭ-ṭuma'nīnahu fīh, ats-tsālits 'asyar: at-tasyahhūdul-ākhir, ar-rābi' 'asyar: al-qu'ūdu fīh, al-khāmiṣ 'asyar: aṣ-ṣalātu 'alan-nabiyyi ṣallallāhu 'alaihi wa sallam, as-sādis 'asyar: as-salām, as-sābi' 'asyar: at-tartīb.",
+        "Al-arkānu allatī talzamuhā aṭ-ṭuma'nīnatu arba'atun: ar-rukū', wal-i'tidāl, was-sujūd, wal-julūsu baynas-sajdatayn. Wa hiyas-sukūnu ba'da harakatin ḥaitsu yastaqiru kullu 'adzw."
       ],
       "terjemahan": [
-        "Syarat shalat meliputi suci dari hadats dan najis, menutup aurat, menghadap kiblat, masuk waktu, mengetahui kewajiban shalat, tidak meyakini salah satu rukun sebagai sunnah, dan menjauhi pembatal shalat. Aurat laki-laki dan budak perempuan dalam shalat adalah antara pusar dan lutut.",
-        "Rukun shalat berjumlah tujuh belas, di antaranya niat, takbiratul ihram, berdiri bagi yang mampu dalam shalat fardhu, membaca Al-Fatihah, rukuk, tuma'ninah, i'tidal, sujud dua kali, duduk di antara dua sujud, tasyahud akhir, duduk tasyahud, shalawat kepada Nabi, dan salam.",
-        "",
-        "",
-        ""
+        "Udzur shalat ada 2: tidur dan lupa.",
+        "Syarat shalat ada 8: suci dari kedua hadats, suci dari najis pada pakaian, badan, dan tempat, menutup aurat, menghadap kiblat, masuk waktu, mengetahui kewajiban shalat, tidak meyakini salah satu fardhu sebagai sunnah, dan menjauhi pembatal shalat.",
+        "Aurat ada 4: aurat laki-laki secara mutlak, dan aurat budak perempuan dalam shalat adalah antara pusar dan lutut.",
+        "Rukun shalat ada 17: pertama niat, kedua takbiratul ihram, ketiga berdiri bagi yang mampu dalam shalat fardhu, keempat membaca Al-Fatihah, kelima rukuk, keenam tuma'ninah padanya, ketujuh i'tidal, kedelapan tuma'ninah padanya, kesembilan sujud dua kali, kesepuluh tuma'ninah padanya, kesebelas duduk di antara dua sujud, kedua belas tuma'ninah padanya, ketiga belas tasyahud akhir, keempat belas duduk padanya, kelima belas shalawat kepada Nabi, keenam belas salam, ketujuh belas tertib.",
+        "Rukun yang wajib disertai tuma'ninah ada 4: rukuk, i'tidal, sujud, dan duduk di antara dua sujud. Tuma'ninah adalah ketenangan setelah gerakan sehingga setiap anggota tubuh stabil."
       ]
     },
     {
@@ -214,16 +214,16 @@
       "materi": "Materi ini membahas tiga tingkatan niat, enam syarat takbiratul ihram, sepuluh syarat membaca Al-Fatihah, dan empat belas tasydid pada surat Al-Fatihah.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Niat, Takbir, dan Al-Fatihah",
       "arabText": [
-        "إن كانت الصالة فرضا وجب قصد الفعل والتعيين والفرضية وإن كانت نافلة مؤقتة كراتبة او ذات سبب وجب قصد الفعل والتعيين ، وان كانت نافلة مطلقة ظھرا أو عصرا و الفرضية",
-        "ستة عشرة أن تقع  حالة القيام في الفرض وأن تكون بالعربيه وأن تكون بلفظ الجاللة وبلفظ أكبر والترتيب بين اللفظتين وأن اليمد ھمزة الجاللة وعدم مد باء أكبر وأن ال يشدد الباء وأن اليزيد  واواً ساكنة أو متحركة بين الكلمتين  ، وأن اليزيد قبل الجاللة وأن اليقف بين كلمتي التكبير وقفة طويلة وال قصيرة ، وأن يسمع نفسة جميع حروفھا ودخول الوقت في المؤقت وإيقاعھا حال اإلستقبال وأن ال يخل بحرف من حروفھا وتأخير تكبيرة المأموم عن تكبيرة اإلمام",
-        "الترتيب والمواالة ومراعاة تشديداتھا وأن ال يسكت سكتة طويلة وال قصيرة يقصد قطع القراءة وقراءة كل آياتھا ومنھا البسملة وعدم اللحن المخل بالمعنى وأن تكون حالة القيام في الفرض ، وأن يسم ع نفسة القراءة وأن ال يتخللھا ذكر أجنبي",
-        "تشديدات الفاتحة أربع عشرة بسم ﷲ فوق الالم ، الرَّحمن فوق الراء ، الرَّحيم فوق الراء ، الحمد Ϳ فوق الم الجاللة ، ربُّ العالمين فوق الباء ، الرَّحمن فوق الراء ،مالك يوم الدِّين فوق الدال ، إيَّاك نعبد فوق الياء ، إيَّاك نستعين فوق الياء ، اھدنا الصِّراط المستقيم فوق الصاد ، صراط الَّذين فوق الالم ، أنعمت عليھم غير المغضوب عليھم وال الضَّالِّين فوق"
+        "النِّيَّةُ ثَلَاثُ دَرَجَاتٍ: إِنْ كَانَتِ الصَّلَاةُ فَرَضًا وَجَبَ قَصْدُ الْفِعْلِ وَالتَّعْيِينِ وَالْفَرْضِيَّةِ، وَإِنْ كَانَتْ نَافِلَةً مُوَقَّتَةً كَرَاتِبَةٍ أَوْ ذَاتِ سَبَبٍ وَجَبَ قَصْدُ الْفِعْلِ وَالتَّعْيِينِ، وَإِنْ كَانَتْ نَافِلَةً مُطْلَقَةً وَجَبَ قَصْدُ الْفِعْلِ فَقَطْ",
+        "شُرُوطُ تَكْبِيرَةِ الِاحْرَامِ سِتَّةٌ عَشَرًا: أَنْ تَقَعَ حَالَةَ الْقِيَامِ فِي الْفَرْضِ، وَأَنْ تَكُونَ بِالْعَرَبِيَّةِ، وَأَنْ تَكُونَ بِلَفْظِ الْجَلَالَةِ، وَبِلَفْظِ أَكْبَرَ، وَالتَّرْتِيبُ بَيْنَ الْلَّفْظَتَيْنِ، وَأَنْ لَا يَمُدَّ هَمْزَةَ الْجَلَالَةِ، وَعَدَمُ مَدِّ بَاءِ أَكْبَرَ، وَأَنْ لَا يُشَدَّدَ الْبَاءَ، وَأَنْ لَا يَزِيدْ وَاوًا سَاكِنَةً أَوْ مُتَحَرِّكَةً بَيْنَ الْكَلِمَتَيْنِ، وَأَنْ لَا يَزِدْ وَاوًا قَبْلَ الْجَلَالَةِ، وَأَنْ لَا يَقِفْ بَيْنَ كَلِمَتَيِ التَّكْبِيرِ وَقْفَةً طَوِيلَةً وَلَا قَصِيرَةً، وَأَنْ يَسْمَعَ نَفْسَهُ جَمِيعَ حُرُوفِهَا، وَدُخُولُ الْوَقْتِ فِي الْمُوقَّتِ، وَإِيقَاعُهَا حَالَ الِاسْتِقْبَالِ، وَأَنْ لَا يَخْلُ بِحَرْفٍ مِنْ حُرُوفِهَا، وَتَأْخِيرُ تَكْبِيرَةِ الْمَأْمُومِ عَن تَكْبِيرَةِ الِإِمَامِ",
+        "شُرُوطُ الْفَاتِحَةِ عَشَرَةٌ: التَّرْتِيبُ وَالْمُوَالَاةُ وَمُرَاعَاةُ تَشْدِيدَاتِهَا، وَأَنْ لَا يَسْكُتَ سَكْتَةً طَوِيلَةً وَلَا قَصِيرَةً يَقْصِدُ قَطْعَ الْقِرَاءَةِ، وَقِرَاءَةُ كُلِّ آيَاتِهَا وَمِنْهَا الْبَسْمَلَةُ، وَعَدَمُ الْلَّحْنِ الْمُخِلِّ بِالْمَعْنَى، وَأَنْ تَكُونَ حَالَةَ الْقِيَامِ فِي الْفَرْضِ، وَأَنْ يَسْمَعَ نَفْسَهُ الْقِرَاءَةَ، وَأَنْ لَا يَتَخَلَّلَهَا ذِكْرٌ أَجْنَبِيٌّ",
+        "تَشْدِيدَاتُ الْفَاتِحَةِ أَرْبَعٌ عَشَرًا: بِسْمِ اللّهِ فَوْقَ الْلَّامِ، الرَّحْمَنِ فَوْقَ الرَّاءِ، الرَّحِيمِ فَوْقَ الرَّاءِ، الْحَمْدُ لِلّهِ فَوْقَ لَامِ الْجَلَالَةِ، رَبُّ الْعَالَمِينَ فَوْقَ الْبَاءِ، الرَّحْمَنِ فَوْقَ الرَّاءِ، مَالِكِ يَوْمِ الدِّينِ فَوْقَ الدَّالِ، إِيَّاكَ نَعْبُدُ فَوْقَ الْيَاءِ، إِيَّاكَ نَسْتَعِينُ فَوْقَ الْيَاءِ، اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ فَوْقَ الصَّادِ، صِرَاطَ الَّذِينَ فَوْقَ الْلَّامِ، أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ فَوْقَ الضَّادِ وَالْلَّامِ"
       ],
       "transliterasi": [
-        "In kanatish-shalatu fardhan wajaba qashdul-fi'li wat-ta'yinu wal-fardhiyyah; wa in kanat nafilatan muwaqqatan wajaba qashdul-fi'li wat-ta'yinu.",
-        "An taqa'a halatal-qiyami fil-fardhi, wa an takuna bil-'arabiyyah, wa an takuna bilafzhil-jalalati wa lafzhi akbar, wat-tartibu bainal-lafzhatain ...",
-        "At-tartibu wal-muwalah, wa mura'atu tasydidatiha, wa an la yaskuta saktatan yaqshidu qath'al-qira'ah, wa qira'atu ayatiha kulliha.",
-        "Tasydidatul-fatihati arba'a 'asyrah: bismillahi ..., ar-rahmani ..., ar-rahimi ..., al-hamdu lillahi ..., rabbil-'alamina ..., iyyaka na'budu wa iyyaka nasta'in ..."
+        "An-niyyatu tsalātu darajāt: in kānatish-shalātu fardhan wajaba qashdul-fi'li wat-ta'yīni wal-fardhiyyah, wa in kānat nāfilatan mawqqtatan karātibatin au dhāti sababin wajaba qashdul-fi'li wat-ta'yīni, wa in kānat nāfilatan muṭlaqatan wajaba qashdul-fi'li faqat.",
+        "Syurūṭu takbīratil-iḥrāmi sittatun 'asyaran: an taqa'a ḥālataq-qiyāmi fil-farḍi, wa an takūna bil-'arabiyyah, wa an takūna bilafzhil-jalalah, wa bilafzi akbar, wat-tartību bainal-lafzatain, wa an lā yamudda hamzatal-jalalah, wa 'adamu maddi bā'i akbar, wa an lā yusyaddadal-bā', wa an lā yazīda wāwan sākinatan au mutaharrikatan bainal-kalimatayn, wa an lā yazīda wāwan qabal-jalalah, wa an lā yaqifa bayna kalimatayit-takbīri waqfatan ṭawīlatan wa lā qashīratan, wa an yasma'a nafsahu jamī'a ḥurūfihā, wa dukhūlul-waqti fil-mawqqati, wa īqā'uhā ḥālastiqbāl, wa an lā yakhlu biḥarfim min ḥurūfihā, wa ta'khīru takbīratil-ma'mūmi 'an takbīratil-imām.",
+        "Syurūṭul-fātiḥati 'asyaratun: at-tartību wal-muwālātu wa murā'atut-tasydīdātihā, wa an lā yaskuta saktatan ṭawīlatan wa lā qashīratan yaqshidu qath'aq-qirā'ah, wa qirā'atu kulli āyātihā wa minhāl-basmalah, wa 'adammul-laḥnil-mukhilli bil-ma'nā, wa an takūna ḥālataq-qiyāmi fil-farḍi, wa an yasma'a nafsahuq-qirā'ah, wa an lā yatakhal lahā zikrun ajaniyy.",
+        "Tasydīdātul-fātiḥati arba'un 'asyaran: bismillāhi fawqal-lām, ar-raḥmāni fawqar-rā', ar-raḥīmi fawqar-rā', al-ḥamdu lillāhi fawqal-lāmil-jalālah, rabbul-'ālamīna fawqal-bā', ar-raḥmāni fawqar-rā', māliki yaumid-dīni fawqad-dāl, iyyāka na'budu fawqal-yā', iyyāka nasta'īnu fawqal-yā', ihdināṣ-ṣirāṭal-mustaqīma fawqaṣ-ṣād, ṣirāṭal-ladhīna fawqal-lām, an'amta 'alaihim ghairil-maghḍūbi 'alaihim wa lad-dāllīna fawqaḍ-ḍād wal-lām."
       ],
       "terjemahan": [
         "Jika shalat yang dikerjakan adalah fardhu, niat harus mencakup maksud melakukan shalat, penentuan shalat, dan status fardhunya. Untuk shalat sunnah yang memiliki waktu atau sebab tertentu, niat mencakup maksud dan penentuannya.",
@@ -247,18 +247,18 @@
       "materi": "Materi ini membahas sunnah mengangkat tangan, tujuh syarat sujud, bacaan tasyahud, bacaan shalawat, dan salam dalam shalat.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Sujud, Tasyahud, dan Salam",
       "arabText": [
-        "يسن رفع اليدين في أربعة مواضع عند تكبيرة اإلحرام وعند الركوع وعند عتدال وعند القيام من التشھد األول",
-        "أن يسجد على سبعة أعضاء وأن تكون جبھته مكشوفة والتحامل الھوى لغيره  وأن اليسجد على شيء يتحرك بحركته وارتفاع أسافلة على أعالية ن الكفين والركبتان وبطون األصابع والرجلين",
-        "تشديدات التشھد إحدى  وعشرون خمس في أكمله وستة عشر في أقلة التاء والياء المباركات الصلوات عل ى الصاد ، الطيبات على الطاء والياء ،  Ϳ على الم الجاللة ، السالم على السين ، عليك أيھا النبي على الياء والنون والياء ، ورحمه ﷲ على الم الجالله ، وبركاته السالم على السين ، علينا وعلى عباد ﷲ على الم الجالله ، الصالحين على الصاد، أشھد أن الإله على ال م ألف ،إال ﷲ على الم ألف والم الجالله، وأشھدأن على النون ، .محمدا رسول ﷲ على ميم محمدا وعلى الراء وعلى الم الجالله -  المباركات الصلواتada pada Shad -  وبركاته السالمada pada Sin -  علينا وعلى عباد ﷲada pada Lam Jalalh -  أشھد أن الإلهada pada lam Alif (karena Idgam)",
-        "تشديدات أقل الصالة على النبي أربع اللھم على الالم والميم ، صل على الالم ، على",
-        "السالم عليكم تشديد السالم على السين Fasal : paling pendeknya salam adalah  السالم عليكمyang dibaca"
+        "يُسَنُّ رَفْعُ الْيَدَيْنِ فِى أَرْبَعَةِ مَوَاضِعَ: عِنْدَ تَكْبِيرَةِ الِاحْرَامِ، وَعِنْدَ الرُّكُوعِ، وَعِنْدَ الِاعْتِدَالِ، وَعِنْدَ الْقِيَامِ مِنَ التَّشَهُّدِ الْأَوَّلِ",
+        "شُرُوطُ السُّجُودِ سَبْعَةٌ: أَن يَسْجُدَ عَلَى سَبْعَةِ أَعْضَاءٍ، وَأَن تَكُونَ جَبْهَتُهْ مَكْشُوفَةً، وَاِلْتِحَامُهَا بِمَا وَضَعَهْ عَلَى، وَعَدَمُ الِانْهِوَاءِ، وَأَن لَا يَسْجُدَ عَلَى شَيْءٍ يَتَحَرَّكُ بِحَرَكَتِهْ، وَاِرْتِفَاعُ أَسْفَلَهْ عَلَى أَعْلَاهْ، وَاِلِطْمَأْنِينَةُ فِى السُّجُودِ",
+        "تَشْدِيدَاتُ التَّشَهُّدِ إِحْدَى وَعِشْرُونَ: خَمْسٌ فِى أَكْمَلِهْ، وَسِتَّةٌ عَشَرًا فِى أَقَلِّهْ: الَّتَحِيَّاتُ عَلَى التَّاءِ وَالْيَاءِ، الْمُبَارَكَاتُ عَلَى الصَّادِ، الصَّلَوَاتُ عَلَى الصَّادِ، الطَّيِّبَاتُ عَلَى الطَّاءِ وَالْيَاءِ، لِلَّهِ عَلَى لَامِ الْجَلَالَةِ، السَّلاَمُ عَلَى السِّينِ، عَلَيْكَ أَيُّهَا النَّبِىُّ عَلَى الْيَاءِ وَالنُّونِ وَالْيَاءِ، وَرَحْمَةُ اللَّهِ عَلَى لَامِ الْجَلَالَةِ، وَبَرَكَاتُهْ، السَّلاَمُ عَلَى السِّينِ، عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ عَلَى لَامِ الْجَلَالَةِ، الصَّالِحِينَ عَلَى الصَّادِ، أَشْهَدُ أَنْ لَا إِلَهَ عَلَى لَامِ أَلِفٍ، إِلَّا اللَّهُ عَلَى لَامِ أَلِفٍ وَلَامِ الْجَلَالَةِ، وَأَشْهَدُ أَنَّ عَلَى النُّونِ، مُحَمَّدًا رَسُولَ اللَّهِ عَلَى مِيمِ مُحَمَّدٍ وَعَلَى الرَّاءِ وَعَلَى لَامِ الْجَلَالَةِ",
+        "تَشْدِيدَاتُ أَقَلِّ الصَّلاَةِ عَلَى النَّبِىِّ أَرْبَعٌ: اللَّهُمَّ عَلَى الْلَّامِ وَالْمِيمِ، صَلِّ عَلَى الْلَّامِ، عَلَى مُحَمَّدٍ عَلَى الْمِيمِ",
+        "أَقَلُّ السَّلاَمِ: السَّلاَمُ عَلَيْكُمْ، تَشْدِيدُ السَّلاَمِ عَلَى السِّينِ"
       ],
       "transliterasi": [
-        "Yusannu raf'ul-yadaini fi arba'ati mawadhi': 'inda takbiratil-ihram, wa 'indar-ruku', wal-i'tidal, wa 'indal-qiyami minat-tasyahhudil-awwal.",
-        "An yasjuda 'ala sab'ati a'dha', wa an takuna jabhatuhu maksyufah, wa an la yasjuda 'ala syai'in yatakahharaku biharakatihi ...",
-        "Tasydidatut-tasyahhudi ihda wa 'isyruna ... at-tahiyyatu, ash-shalawatu, ath-thayyibatu ...",
-        "Tasydidatu aqallish-shalati 'alan-nabiyyi arba': Allahumma, shalli, 'ala ...",
-        "As-salamu 'alaikum; tasydidu as-salami 'alas-sin."
+        "Yusannu raf'ul-yadayni fī arba'ati mawāḍi': 'inda takbīratil-iḥrām, wa 'indar-rukū', wa 'indal-i'tidāl, wa 'indal-qiyāmi minat-tasyahhudil-awwal.",
+        "Syurūṭus-sujūdi sab'atun: an yasjuda 'alā sab'ati a'dzā', wa an takūna jabhatuhā makshūfah, wal-liḥāmuha bimā waḍa'ah, wa 'adamul-inhiwā', wa an lā yasjuda 'alā syai'in yataḥarraku biḥarakatih, wa irtifā'u asfalih 'alā a'lāh, wal-iṭma'nīnahu fis-sujūd.",
+        "Tasydīdātut-tasyahhudi iḥdā wa 'isyrun: khamsun fī akmalih, wa sittatun 'asyaran fī aqlih: at-taḥiyyātu 'alā at-tā' wal-yā', al-mubārakātu 'alaṣ-ṣād, aṣ-ṣalawātu 'alaṣ-ṣād, aṭ-ṭayyibātu 'alā aṭ-ṭā' wal-yā', lillāhi 'alā lāmil-jalālah, as-salāmu 'alas-sīn, 'alayka ayyuhan-nabiyyu 'alal-yā' wan-nūn wal-yā', wa raḥmatullāhi 'alā lāmil-jalālah, wa barakātuh, as-salāmu 'alas-sīn, 'alaynā wa 'alā 'ibādillāhi 'alā lāmil-jalālah, aṣ-ṣāliḥīna 'alaṣ-ṣād, asyhadu an lā ilāha 'alā lāmi alifin, illallāhu 'alā lāmi alifin wa lāmil-jalālah, wa asyhadu anna 'alan-nūn, Muḥammadan rasūlallāhi 'alā mīmi Muḥammadin wa 'alar-rā' wa 'alā lāmil-jalālah.",
+        "Tasydīdātu aqlis-ṣalāti 'alan-nabiyyi arba'un: Allāhuma 'alal-lāmi wal-mīm, ṣalli 'alal-lām, 'alā Muḥammadin 'alal-mīm.",
+        "Aqlus-salām: as-salāmu 'alaikum, tasydīdus-salāmi 'alas-sīn."
       ],
       "terjemahan": [
         "Mengangkat kedua tangan disunnahkan pada empat tempat: saat takbiratul ihram, rukuk, i'tidal, dan berdiri dari tasyahud pertama.",
@@ -280,12 +280,12 @@
       "materi": "Materi ini membahas lima waktu shalat dan waktu-waktu yang haram untuk shalat.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Waktu Shalat",
       "arabText": [
-        "أول وقت الظھر زوال الشمس  ، وآخره مصير ظل الشيء مثله غير ظل اإلستواء ، وأول وقت العصر إذا صار ظل كل شيء مثلة وزاد قليال ، وآخره وأول وقت المغرب غروب الشمس وآخره غروب الشفق األحمر ، وآخره طلوع الفجر الصادق  وآخره طلوع الش صاله العشاء إلى أن يغيب الشفق األحمر واألبيض",
-        "تحرم الصالة التي ليس لھا سبب متقدم وال مقارن في خمسة أوقات الشمس حتى ترتفع  قدر رمح وعند اإلستواء في غير يوم الجمعة حتى تزول ، وعند اإلصفرار حتى تطلع الشمس وبعد صالة العصر حتى تغرب"
+        "أَوَّلُ وَقْتِ الظُّهْرِ زَوَالُ الشَّمْسِ، وَاخِرُهْ مَصِيرُ ظِلِّ كُلِّ شَيْءٍ مِثْلَهْ غَيْرَ ظِلِّ الِاسْتِوَاءِ، وَاوَّلُ وَقْتِ الْعَصْرِ إِنْ صَارَ ظِلُّ كُلِّ شَيْءٍ مِثْلَهْ وَزَادَ قَلِيلًا، وَاخِرُهْ غُرُوبُ الشَّمْسِ، وَاوَّلُ وَقْتِ الْمَغْرِبِ غُرُوبُ الشَّمْسِ، وَاخِرُهْ غُرُوبُ الشَّفَقِ الْأَحْمَرِ، وَاوَّلُ وَقْتِ الْعِشَاءِ غُرُوبُ الشَّفَقِ الْأَحْمَرِ، وَاخِرُهْ طُلُوعُ الْفَجْرِ الصَّادِقِ، وَاوَّلُ وَقْتِ الصُّبْحِ طُلُوعُ الْفَجْرِ الصَّادِقِ، وَاخِرُهْ طُلُوعُ الشَّمْسِ",
+        "تَحْرُمُ الصَّلاَةُ الَّتِي لَيْسَ لَهَا سَبَبٌ مُتَقَدِّمٌ وَلَا مُقَارِنٌ فِى خَمْسَةِ أَوقَاتٍ: عِنْدَ طُلُوعِ الشَّمْسِ حَتَّى تَرْتَفِعَ قَدْرَ رُمْحٍ، وَعِنْدَ الِاسْتِوَاءِ فِى غَيْرِ يَوْمِ الْجُمُعَةِ حَتَّى تَزُولَ، وَعِنْدَ الِاصْفِرَارِ بَعْدَ زَوَالِ الْعَصْرِ حَتَّى تَغْرُبَ"
       ],
       "transliterasi": [
-        "Awwalu waqtizh-zhuhri zawalusy-syamsi, wa akhiruhu mushiru zhilli kulli syai'in mitslahu ... wa awwalu waqtish-shubhi thulu'ul-fajri ash-shadiq.",
-        "Tahrumush-shalatu allati laha sababun mutaqaddimun wa la muqarinun fi khamsati awqat ..."
+        "Awwalu waqtizh-zhuhri zawālusy-syamsi, wa āhiruh maśīru żżilli kulli syai'in miṡlah gaira żżilil-istiwā', wa awwalu waqtil-'ashri in żāra żżillu kulli syai'in miṡlah wa żāda qalīlan, wa āhiruh gurūbusy-syamsi, wa awwalu waqtil-magribi gurūbusy-syamsi, wa āhiruh gurūbusy-syafaqil-aḥmar, wa awwalu waqtil-'isyā'i gurūbusy-syafaqil-aḥmar, wa āhiruh ṭulu'ul-fajriṣ-ṣādiq, wa awwalu waqtish-shubḥi ṭulu'ul-fajriṣ-ṣādiq, wa āhiruh ṭulu'usy-syamsi.",
+        "Taḥrumuṣ-ṣalātullatī laisa lahā sababum mutaqaddimum wa lā muqārinun fī khamsati awqātin: 'inda ṭulu'isy-syamsi ḥattā tarti'ā qadra rumḥin, wa 'indal-istiwā' fī gairi yaumil-jumu'ati ḥattā tazūla, wa 'indal-iṣfi'rāri ba'da zawā'il-'ashri ḥattā taghruba."
       ],
       "terjemahan": [
         "Waktu Zuhur dimulai setelah matahari tergelincir dan berakhir ketika bayangan benda sama panjangnya selain bayangan saat istiwa. Waktu Ashar dimulai setelah bayangan benda melebihi panjangnya sedikit. Maghrib dimulai saat matahari terbenam; Isya dimulai setelah hilangnya mega merah; Subuh dimulai saat fajar yang benar terbit.",
@@ -308,20 +308,20 @@
       "materi": "Materi ini membahas sujud syahwi, empat belas hal yang membatalkan shalat, shalat jamaah, syarat menjadi imam dan makmum, serta jama' takdim.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Shalat Jamaah",
       "arabText": [
-        "بين تكبيرة اإلحرام ودعاء اإلفتتاح والتعوذ، وبين الفاتحة والتعوذ، وبين آخر الفاتحة وآمين ، وبين آمين والسوره ، وبين السورة والركوع",
-        "األركان التي تلزمه فيھا الطمأنينة أربعة الركوع واإلعتدال والسجود والجلوس بين سكون بعد حركة بحيث يستقر كل عضو",
-        "أسباب سجود السھو أربعة األول ترك بعض من أبعاض الصالة الثاني فعل مايبطل عمده واليبطل سھوه إذا فعله ناسيا ، الثالث نقل ركن قولي إلى غير محله ، الرابع إيقاع ركن فعلي مع احتمال الزيادة",
-        "التشھد األول وقعوده والصاله على النبي صلى ﷲ عليه وسلم فيه ، والصاله على اآلل التشھد األخير، والقنوت ،والصالة على النبي صلى ﷲ علية وسلم",
-        "تبطل الصالة بأربع عشرة خصلة بالحدث وبوقوع  النجاسة إن لم تلق حاال من غير ، وانكشاف العورة إن لم تستر حاال، والنطق بحرفين أو حرف مفھم عمدا ، وبالمفطر عمدا ، واألكل الكثير ناسيا ،أوثالث حركات متواليات ولو سھوا والوثبة الفاحشة والضربة المفرطة ، وزيادة ركن فعلي عمدا ، والتقدم على إمامه بركنين فعليين ، والتخلف بھما بغير قطع الصالة ، وتعليق قطعھا بشيء والتردد في قطعھا",
-        "الذي يلزم فية نية اإلمامة أربع الجمعة والمعاداة والمنذورة  جماعة والمتقدمة في"
+        "يُسَنُّ الِاسْتِفْتَاحُ بَيْنَ تَكْبِيرَةِ الِاحْرَامِ وَدُعَاءِ الِاسْتِفْتَاحِ، وَبَيْنَ الْفَاتِحَةِ وَالتَّعَوُّذِ، وَبَيْنَ آخِرِ الْفَاتِحَةِ وَآمِينْ، وَبَيْنَ آمِينَ وَالسُّورَةِ، وَبَيْنَ السُّورَةِ وَالرُّكُوعِ",
+        "الْأَرْكَانُ الَّتِي تَلْزَمُهَا الطُّمَأْنِينَةُ أَرْبَعَةٌ: الرُّكُوعُ، وَالِاعْتِدَالُ، وَالسُّجُودُ، وَالْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ. وَهِيَ السُّكُونُ بَعْدَ حَرَكَةٍ حَيْثُ يَسْتَقِرُّ كُلُّ عَضْوٍ",
+        "أَسْبَابُ سُجُودِ السَّهْوِ أَرْبَعَةٌ: الْأَوَّلُ: تَرْكُ بَعْضٍ مِنْ أَبْعَاضِ الصَّلَاةِ أَوْ بَعْضِ الْبَعْضِ، الثَّانِي: فِعْلُ مَا يُبْطِلُ عَمْدُهُ وَلَا يُبْطِلُ سَهْوُهُ إِنْ فَعَلَهُ نَاسِيًا، الثَّالِثُ: نَقْلُ رُكْنٍ قَوْلِيٍّ إِلَى غَيْرِ مَحَلِّهِ، الرَّابِعُ: إِيقَاعُ رُكْنٍ فِعْلِيٍّ مَعَ احْتِمَالِ الزِّيَادَةِ",
+        "أَبْعَاضُ الصَّلَاةِ سَبْعَةٌ: التَّشَهُّدُ الْأَوَّلُ، وَقُعُودُهُ، وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيهِ، وَالصَّلَاةُ عَلَى الْآلِ فِي التَّشَهُّدِ الْأَخِيرِ، وَالْقُنُوتُ، وَالْقِيَامُ فِي الْجُمُعَةِ، وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَآلِهِ وَصَحْبِهِ فِيهَا",
+        "تَبْطُلُ الصَّلَاةُ بِأَرْبَعَةَ عَشَرَ خَصْلَةً: بِالْحَدَثِ، وَبِوُقُوعِ النَّجَاسَةِ إِنْ لَمْ تَلْقَ حَالًا مِنْ غَيْرِ حَمْلٍ، وَانْكَشَافُ الْعَوْرَةِ إِنْ لَمْ تَسْتَرْ حَالًا، وَالنُّطْقُ بِحَرْفَيْنِ أَوْ حَرْفٍ مُفْهَمٍ عَمْدًا، وَبِالْمُفَطِّرِ عَمْدًا، وَالْأَكْلُ الْكَثِيرُ نَاسِيًا، أَوْ ثَلَاثُ حَرَكَاتٍ مُتَوَالِيَاتٍ وَلَوْ سَهْوًا، وَالْوَثْبَةُ الْفَاحِشَةُ وَالضَّرْبَةُ الْمُفْرِطَةُ، وَزِيَادَةُ رُكْنٍ فِعْلِيٍّ عَمْدًا، وَالتَّقَدُّمُ عَلَى إِمَامِهِ بِرُكْنَيْنِ فِعْلِيَّيْنِ، وَالتَّخَلُّفُ بِهِمَا بِغَيْرِ عُذْرٍ، وَنِيَّةُ قَطْعِ الصَّلَاةِ، وَتَعْلِيقُ قَطْعِهَا بِشَيْءٍ، وَالتَّرَدُّدُ فِي قَطْعِهَا",
+        "الَّذِي يَلْزَمُ فِيهِ نِيَّةُ الْإِمَامَةِ أَرْبَعٌ: الْجُمُعَةُ، وَالْمُعَادَةُ، وَالْمَنْذُورَةُ جَمَاعَةً، وَالْمُتَقَدِّمَةُ فِي الْمَطَرِ"
       ],
       "transliterasi": [
-        "Baina takbiratil-ihrami wa du'a'il-istiftahi wat-ta'awwudzi, wa bainal-fatihati wat-ta'awwudzi, wa baina akhiril-fatihati wa amin ...",
-        "Al-arkanu allati talzamuhu fiha ath-thuma'ninatu arba'ah: ar-ruku', wal-i'tidal, was-sujud, wal-julusu baina sajdatain.",
-        "Asbabu sujudis-sahwi arba'ah: tarku ba'dhin min ab'adhish-shalah, wa fi'lu ma yubthilu 'amdahu ...",
-        "At-tasyahhudul-awwalu wa qu'uduhu wash-shalatu 'alan-nabiyyi fihi, wash-shalatu 'alal-ali ...",
-        "Tabthulush-shalatu bi arba'ata 'asyara khashlah: bil-hadats, wa wuqu'in-najasah, wa inkisyafil-'aurah ...",
-        "Alladzi yalzamu fihi niyyatul-imamati arba'ah: al-jumu'atu, wal-mu'adatu, wal-mandzuratu jama'atan ..."
+        "Yusannul-iftitāhu bayna takbīratil-iḥrāmi wa du'a'il-iftitāḥ, wa baynal-fātiḥati wat-ta'awwudz, wa bayna ākhiril-fātiḥati wa āmīn, wa bayna āmīna was-sūrah, wa baynas-sūrah war-rukū'.",
+        "Al-arkānu allatī talzamuhā aṭ-ṭuma'nīnatu arba'atun: ar-rukū', wal-i'tidāl, was-sujūd, wal-julūsu baynas-sajdatayn. Wa hiyas-sukūnu ba'da harakatin ḥaitsu yastaqiru kullu 'adzw.",
+        "Asbābu sujūdis-sahwi arba'atun: al-awwal: tarku ba'dzim min ab'āḍiṣ-ṣalāh au ba'dzil-ba'dz, ats-tsānī: fi'lumā yubṭilu 'amduhu wa lā yubṭilu sahwohu in fa'alahu nāsīan, ats-tsālits: naqlu ruknin qaulīyyin ilā ghairi maḥallih, ar-rābi': īqā'u ruknin fi'līyyim ma'a iḥtimāliz-ziyādah.",
+        "Ab'āḍuṣ-ṣalāh sab'atun: at-tasyahhudul-awwal, wa qu'ūduh, waṣ-ṣalātu 'alan-nabiyyi ṣallallāhu 'alaihi wa sallam fīh, waṣ-ṣalātu 'alal-āli fit-tasyahhudil-ākhir, wal-qunūt, wal-qiyāmu fil-jumu'ah, waṣ-ṣalātu 'alan-nabiyyi ṣallallāhu 'alaihi wa sallam wa ālihi wa ṣaḥbihi fīhā.",
+        "Tabṭuluṣ-ṣalātu bi-arba'ata 'asyara khashlah: bil-ḥadats, wa biwuqū'in-najāsa in lam talqa ḥālan min ghairi ḥamlin, wankasyāful-'aurati in lam tastar ḥālan, wan-ṭuq bi-ḥarfayn au ḥarfim mufahamim 'amdan, wa bil-mufattiri 'amdan, wal-aklul-katsīru nāsīan, au tsalāṭu ḥarakātim mutawālīyātim walau sahwan, wal-watsbatul-fāhisah waḍ-ḍarbatul-mufridah, waziyādatu ruknin fi'līyyim 'amdan, wat-taqaddumu 'alā imāmihi bi-ruknayn fi'līyyain, wat-takhalufu bihima bighairi 'uzrin, wa niyyatu qath'iṣ-ṣalāh, wa ta'līqu qath'iha bisyai', wat-taraddudu fī qath'iha.",
+        "Alladzī yalzamu fīhi niyyatul-imāmati arba'atun: al-jumu'ah, wal-mu'ādah, wal-manzūrah jama'atan, wal-mutaqaddimah fil-maṭar."
       ],
       "terjemahan": [
         "Di antara bacaan shalat yang disunnahkan dipisahkan dengan diam sejenak adalah antara takbiratul ihram dan doa iftitah, antara Al-Fatihah dan ta'awudz, antara akhir Al-Fatihah dan amin, antara amin dan surat, serta antara surat dan rukuk.",
@@ -347,18 +347,18 @@
       "materi": "Materi ini membahas lima rukun dua khutbah, sepuluh syarat khutbah, kewajiban bagi mayyit, cara memandikan jenazah, dan hukum minta tolong dalam bersuci.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Khatbah dan Jenazah",
       "arabText": [
-        "أن تكون كلھا في وقت الظھر وأن تقام في خطة البلد وأن تصلي جماعة وأن يكونوا أربعين أحرارا ذكورا بالغين مستوطنين وأن ال تسبقھا وال تقارنھا جمعة في تلك البلد وأن يتقدمھا خطبتان",
-        "حمد ﷲ فيھما والصالة على النبي صلى والوصية بالتقوى فيھما وقراءة آية من القرآن في أحداھما والدعاء للمؤمنين والمؤمنات في",
-        "الطھارة عن الحدثين األصغر واألكبر والطھارة عن النجاسة في الثوب والبدن والمكان وستر العورة والقيام على القادر والجلوس بينھما طمأنينة الصالة والمواالة بينھما وبين الصالة وأن تكون بالعربية وأن يسمعھا  أربعون وأن تكون كلھا في وقت الظھر",
-        "الذي يلزم للميت أربع خصال غسلة وتكفينة والصالة علية ودفنه",
-        "وأكمله أن يغسل سوأتيه وأن يزيل القذر من أنفه وأن بدنه بالسدر وأن يصب الماء عليه ثالثا"
+        "شُرُوطُ الْجُمُعَةِ سِتَّةٌ: أَن تَكُونَ كُلُّهَا فِى وَقْتِ الظُّهْرِ، وَأَن تُقَامَ فِى خَطَّةِ الْبَلَدِ، وَأَن تُصَلَّى جَمَاعَةً، وَأَن يَكُونُوا أَرْبَعِينَ أَحْرَارًا ذُكُورًا بَالِغِينَ مُسْتَوْطِنِينَ، وَأَن لَا تَسْبِقَهَا وَلَا تُقَارِنَهَا جُمُعَةٌ فِى تِلْكَ الْبَلَدِ، وَأَن يَتَقَدَّمَهَا خُطْبَتَانِ",
+        "أَرْكَانُ الْخُطْبَتَيْنِ خَمْسَةٌ: حَمْدُ اللّهِ فِيهِمَا، وَالصَّلاَةُ عَلى النَّبِىِّ صَلَّى اللّهُ عَلَيْهِ وَسَلّمَ فِيهِمَا، وَاِلْوَصِيَّةُ بِالتَّقْوَى فِيهِمَا، وَقِرَاءَةُ آيَةٍ مِنَ الْقُرْآنِ فِى إِحْدَاهُمَا، وَالدُّعَاءُ لِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ فِى الْأَخِيرَةِ",
+        "شُرُوطُ الْخُطْبَتَيْنِ عَشَرَةٌ: الطُّهُورُ عَنِ الْحَدَثَيْنِ الْأَصْغَرِ وَالْأَكْبَرِ، وَالطُّهُورُ عَنِ النَّجَاسَةِ فِى الثَّوْبِ وَالْبَدَنِ وَالْمَكَانِ، وَسَتْرُ الْعَوْرَةِ، وَالْقِيَامُ عَلَى الْقَادِرِ، وَالْجُلُوسُ بَيْنَهُمَا فَوْقَ طُمَأْنِينَةِ الصَّلاَةِ، وَالْمُوَالَاةُ بَيْنَهُمَا وَبَيْنَ الصَّلاَةِ، وَأَنْ تَكُونَ بِالْعَرَبِيَّةِ، وَأَنْ يَسْمَعَهَا أَرْبَعُونَ، وَأَنْ تَكُونَ كُلُّهَا فِى وَقْتِ الظُّهْرِ",
+        "الَّذِي يَلْزَمُ لِلْمَيِّتِ أَرْبَعُ خِصَالٍ: غَسْلُهُ، وَتَكْفِينُهُ، وَالصَّلاَةُ عَلَيْهِ، وَدَفْنُهُ",
+        "أَقَلُّ الْغَسْلِ: تَعْمِيمُ بَدْنِهِ بِالْمَاءِ. وَأَكْمَلُهُ أَنْ يَغْسِلَ سَوَاتِهِ، وَأَنْ يُزِيلَ الْقَذَرَ مِنْ أَنْفِهِ، وَأَنْ يُوضِئَهُ، وَأَنْ يَدْلِكَ بَدْنَهُ بِالسِّدْرِ، وَأَنْ يَصُبَّ الْمَاءَ عَلَيْهِ ثَلَاثًا"
       ],
       "transliterasi": [
-        "An takuna kulluha fi waqtizh-zhuhri, wa an tuqama fi khiththatil-balad, wa an tushalla jama'atan, wa an yakunu arba'ina ...",
-        "Hamdu lillahi fihima, wash-shalatu 'alan-nabiyyi, wal-washiyyatu bit-taqwa fihima, wa qira'atu ayatin minal-qur'ani ...",
-        "Ath-thaharah 'anil-hadatsainil-ashghari wal-akbari, wath-thaharah 'anin-najasati ... wa an takuna bil-'arabiyyah.",
-        "Alladzi yalzamu lil-mayyiti arba'u khishal: ghasluhu, wa takfinuhu, wash-shalatu 'alaihi, wa dafnuhi.",
-        "Wa akmaluhu an yaghsila saw-atihi, wa an yuzilal-qadzara min anfihi, wa an yaghusila badanahu bis-sidri, wa an yashubbal-ma'a 'alaihi tsalatsan."
+        "Syurūṭul-jumu'ati sittatun: an takūna kulluhā fī waqtizh-zhuhri, wa an tuqāma fī khaṭṭatil-balad, wa an tuṣallā jama'atan, wa an yakūnū arba'īna aḥrāran ḏukūran bāligīna mustawṭinīna, wa an lā tasbiquhā wa lā tuqārinahā jumu'atun fī tilkal-balad, wa an yaṭaddamahā khūṭbātān.",
+        "Arkānul-khuṭbataini khamsatun: ḥamdullāhi fīhimā, waṣ-ṣalātu 'alan-nabiyyi ṣallallāhu 'alaihi wa sallam fīhimā, wal-waṣiyyatu bit-taqwā fīhimā, wa qirā'atu āyatin minal-Qur'ān fī iḥdāhumā, wa du'ā'ul-mu'minīna wal-mu'mināti fīl-ākhirah.",
+        "Syurūṭul-khuṭbataini 'asyaratun: aṭ-ṭuhūru 'anil-ḥadatsainil-aṣghari wal-akbar, aṭ-ṭuhūru 'anin-najāsa fīṣ-ṣāubil-badani wal-makān, satrul-'aurah, wal-qiyāmu 'alal-qādir, wal-julūsu baynahumā fawqa ṭuma'nīnatiṣ-ṣalāh, wal-muwālāh baynahumā wa baynaṣ-ṣalāh, wa an takūna bil-'arabīyah, wa an yasma'ahā arba'ūna, wa an takūna kulluhā fī waqtizh-zhuhri.",
+        "Alladzī yalzamu lil-mayyiti arba'u khiṣāl: ghasluh, wa takfīnuh, waṣ-ṣalātu 'alaihi, wa dafnuh.",
+        "Aqallul-ghasl: ta'mīmu badnihi bil-mā'. Wa akmaluhu an yaghsila sawātihi, wa an yuzīlal-qadara min anfihi, wa an yuḍ'i'ah, wa an yadlikka badnahu bis-sidri, wa an yaṣubbal-mā'a 'alaihi tsalāṭan."
       ],
       "terjemahan": [
         "Syarat khutbah Jumat antara lain dilaksanakan pada waktu Zuhur, di wilayah permukiman, berjamaah oleh empat puluh laki-laki merdeka yang baligh dan menetap, tidak didahului atau disertai Jumat lain di wilayah itu, serta didahului dua khutbah.",
