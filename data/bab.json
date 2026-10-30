@@ -11,6 +11,12 @@
         "Pengertian La ilaha illallah",
         "Tanda-tanda baligh ada 3"
       ],
+      "arabFasal": [
+        "فَصْلٌ: أَرْكَانُ الإِسْلَامِ خَمْسَةٌ",
+        "فَصْلٌ: أَرْكَانُ الإِيمَانِ سِتَّةٌ",
+        "فَصْلٌ: لَا إِلَهَ إِلَّا اللَّهُ",
+        "فَصْلٌ: أَشْرَاطُ الْبُلُوغِ ثَلَاثَةٌ"
+      ],
       "materi": "Materi ini membahas lima Rukun Islam dan enam Rukun Iman sebagai fondasi keimanan seorang Muslim, serta pengertian La ilaha illallah dan tanda-tanda baligh.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Rukun Islam dan Rukun Iman",
       "arabText": [
@@ -45,6 +51,15 @@
         "Syarat wudlu ada 10",
         "Pembatal wudlu ada 4",
         "Larangan bagi orang yang wudlunya batal, ada 4"
+      ],
+      "arabFasal": [
+        "فَصْلٌ: شُرُوطُ إِجْزَاءِ الْحَجَرِ ثَمَانِيَة",
+        "فَصْلٌ: فُرُوضُ الْوُضُوءِ سِتَّة",
+        "فَصْلٌ: النِّيَّةُ قَصْدُ الشَّيْءِ مُقْتَرِنًا بِفَعْلِهِ",
+        "فَصْلٌ: الْمَاءُ قَلِيلٌ وَكَثِير",
+        "فَصْلٌ: شُرُوطُ الْوُضُوءِ عَشَرَة",
+        "فَصْلٌ: نَوَاقِضُ الْوُضُوءِ أَرْبَعَة",
+        "فَصْلٌ: مَنْ انْتَقَضَ وُضُوءُهُ حُرِمَ عَلَيْهِ أَرْبَعَة"
       ],
       "materi": "Materi ini membahas cara bersuci dengan istinja' menggunakan batu, fardhu wudhu, niat wudhu, pembagian air, syarat wudhu, pembatal wudhu, dan larangan bagi orang yang wudhunya batal.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Istinja' dan Wudhu",
@@ -85,6 +100,10 @@
         "Kewajiban mandi ada 6",
         "Fardhu mandi ada 2"
       ],
+      "arabFasal": [
+        "فَصْلٌ: نَوَاقِضُ الْوُضُوءِ أَرْبَعَة",
+        "فَصْلٌ: فُرُوضُ الْغُسْلِ اثْنَان"
+      ],
       "materi": "Materi ini membahas enam kewajiban mandi wajib dan dua fardhu mandi dalam Islam.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Mandi Wajib",
       "arabText": [
@@ -110,6 +129,12 @@
         "Syarat-syarat Tayammum, ada 10",
         "Fardhu Tayammum ada 5",
         "Batalnya Tayammum"
+      ],
+      "arabFasal": [
+        "فَصْلٌ: أَسْبَابُ التَّيَمُّمِ ثَلَاثَة",
+        "فَصْلٌ: شُرُوطُ التَّيَمُّمِ عَشَرَة",
+        "فَصْلٌ: فُرُوضُ التَّيَمُّمِ اثْنَان",
+        "فَصْلٌ: مَا أَبْطَلَ التَّيَمُّم"
       ],
       "materi": "Materi ini membahas tiga sebab melakukan tayammum, sepuluh syarat tayammum, lima fardhu tayammum, dan hal-hal yang membatalkan tayammum.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Tayammum",
@@ -143,6 +168,12 @@
         "Cara mensucikan najis Mughalladhah",
         "Paling sedikit masa Haid, sehari-semalam"
       ],
+      "arabFasal": [
+        "فَصْلٌ: الَّذِي يَظْهَرُ مِنَ النَّجَاسَة ثَلَاثَة",
+        "فَصْلٌ: النَّجَاسَة ثَلَاث",
+        "فَصْلٌ: تَطْهَرُ بِسَبْعِ غَسْلَات",
+        "فَصْلٌ: أَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَة"
+      ],
       "materi": "Materi ini membahas tiga jenis najis, benda-benda najis yang bisa menjadi suci, cara mensucikan najis mughalladhah, serta ketentuan masa haid.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Najis dan Haid",
       "arabText": [
@@ -175,6 +206,13 @@
         "Hadats itu ada 2 macam",
         "Aurat dibagi menjadi 4",
         "Rukun shalat ada 17"
+      ],
+      "arabFasal": [
+        "فَصْلٌ: أَعْدَارُ الصَّلَاةِ اثْنَان",
+        "فَصْلٌ: شُرُوطُ الصَّلَاةِ ثَمَانِيَة",
+        "فَصْلٌ: الْحَدَثَانِ",
+        "فَصْلٌ: الْعَوْرَاتُ أَرْبَع",
+        "فَصْلٌ: أَرْكَانُ الصَّلَاةِ سَبْعَة عَشَرًا"
       ],
       "materi": "Materi ini membahas udzur shalat, delapan syarat shalat, dua macam hadats, pembagian aurat menjadi 4, dan tujuh belas rukun shalat.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Syarat dan Rukun Shalat",
@@ -211,6 +249,12 @@
         "Syarat membaca Al-Fatihah ada 10",
         "Tasydid pada surat Al-Fatihah ada 14"
       ],
+      "arabFasal": [
+        "فَصْلٌ: النِّيَّةُ ثَلَاثُ دَرَجَات",
+        "فَصْلٌ: شُرُوطُ تَكْبِيرَةِ الْإِحْرَامِ سِتَّة عَشَرًا",
+        "فَصْلٌ: شُرُوطُ الْفَاتِحَةِ عَشَرَة",
+        "فَصْلٌ: تَشْدِيدَاتُ الْفَاتِحَةِ أَرْبَع عَشَرًا"
+      ],
       "materi": "Materi ini membahas tiga tingkatan niat, enam syarat takbiratul ihram, sepuluh syarat membaca Al-Fatihah, dan empat belas tasydid pada surat Al-Fatihah.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Niat, Takbir, dan Al-Fatihah",
       "arabText": [
@@ -243,6 +287,13 @@
         "Tasydid-tasyid pada paling pendeknya bacaan Tasyahud",
         "Tasydid-tasyid pada paling pendeknya bacaan Shalawat",
         "Paling pendeknya salam"
+      ],
+      "arabFasal": [
+        "فَصْلٌ: يُسَنُّ رَفْعُ الْيَدَيْنِ فِي أَرْبَعَةِ مَوَاضِع",
+        "فَصْلٌ: شُرُوطُ السُّجُودِ سَبْعَة",
+        "فَصْلٌ: تَشْدِيدَاتُ التَّشَهُّدِ إِحْدَى وَعِشْرُون",
+        "فَصْلٌ: تَشْدِيدَاتُ أَقَلِّ الصَّلَاةِ عَلَى النَّبِيِّ أَرْبَع",
+        "فَصْلٌ: أَقَلُّ السَّلَامِ السَّلَامُ عَلَيْكُمْ"
       ],
       "materi": "Materi ini membahas sunnah mengangkat tangan, tujuh syarat sujud, bacaan tasyahud, bacaan shalawat, dan salam dalam shalat.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Sujud, Tasyahud, dan Salam",
@@ -277,6 +328,10 @@
         "Waktu Shalat ada 5",
         "Haramnya shalat yang tidak memiliki sebab yang mendahului atau menyertainya"
       ],
+      "arabFasal": [
+        "فَصْلٌ: أَوَّلُ وَقْتِ الظُّهْرِ زَوَالُ الشَّمْس",
+        "فَصْلٌ: تَحْرُمُ الصَّلَاةُ الَّتِي لَيْسَ لَهَا سَبَب"
+      ],
       "materi": "Materi ini membahas lima waktu shalat dan waktu-waktu yang haram untuk shalat.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Waktu Shalat",
       "arabText": [
@@ -304,6 +359,14 @@
         "Syarat mengikuti seseorang menjadi makmum ada 11",
         "Contoh mengikuti Imam ada 9 dan yang 5 dihukumi Sah",
         "Syarat Jama' Takdim ada 4"
+      ],
+      "arabFasal": [
+        "فَصْلٌ: أَسْبَابُ سُجُودِ السَّهْوِ أَرْبَعَة",
+        "فَصْلٌ: تَبْطُلُ الصَّلَاةُ بِأَرْبَعَةَ عَشَرَ خَصْلَة",
+        "فَصْلٌ: الَّذِي يَلْزَمُ فِيهِ نِيَّةُ الْإِمَامَة أَرْبَع",
+        "فَصْلٌ: شُرُوطُ مَنْ لَمْ يَلْزَمْهُ نِيَّةُ الْإِمَامَة أَحَدَ عَشَر",
+        "فَصْلٌ: مَثَلُ تَقَدُّمِ الْإِمَامِ تِسْعَة",
+        "فَصْلٌ: شُرُوطُ الْجَمْعِ تَقْدِيمًا أَرْبَعَة"
       ],
       "materi": "Materi ini membahas sujud syahwi, empat belas hal yang membatalkan shalat, shalat jamaah, syarat menjadi imam dan makmum, serta jama' takdim.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Shalat Jamaah",
@@ -343,6 +406,13 @@
         "Kewajiban bagi mayyit, ada 4",
         "Memandikan Jenazah, dengan meratakan seluruh badan",
         "Hukum minta tolong dalam bersuci ada 4"
+      ],
+      "arabFasal": [
+        "فَصْلٌ: أَرْكَانُ الْخُطْبَتَيْنِ خَمْسَة",
+        "فَصْلٌ: شُرُوطُ الْخُطْبَتَيْنِ عَشَرَة",
+        "فَصْلٌ: الَّذِي يَلْزَمُ لِلْمَيِّتِ أَرْبَعُ خِصَال",
+        "فَصْلٌ: أَقَلُّ الْغَسْلِ تَعْمِيمُ بَدْنِهِ بِالْمَاء",
+        "فَصْلٌ: اسْتِعَانَةُ الرَّجُلِ بِالْمَرْأَةِ فِي الطَّهَارَةِ أَرْبَع"
       ],
       "materi": "Materi ini membahas lima rukun dua khutbah, sepuluh syarat khutbah, kewajiban bagi mayyit, cara memandikan jenazah, dan hukum minta tolong dalam bersuci.",
       "ayat": "Referensi dari Kitab Safinatun Najah: Bab Khatbah dan Jenazah",

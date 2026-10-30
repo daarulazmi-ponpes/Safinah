@@ -68,15 +68,18 @@
     // Build detail panel with Fasal list and Arabic text
     const totalBab = babData.length;
     const fasals = bab.fasals || [];
+    const arabFasals = bab.arabFasal || [];
     const arabTexts = bab.arabText || [];
     const transliterasi = bab.transliterasi || [];
     const terjemahan = bab.terjemahan || [];
     let fasalListHTML = "";
     if (fasals.length > 0) {
       const fasalItems = fasals.map((f, i) => {
+        const arabFasalTitle = arabFasals[i] || "";
         const arabText = arabTexts[i] || "";
         const arabBlock = arabText ? `
           <div class="arab-text" dir="rtl" lang="ar">
+            ${arabFasalTitle ? `<p class="arab-fasal-title">${arabFasalTitle}</p>` : ""}
             <p>${arabText}</p>
           </div>
           <div class="arab-details" id="arabic-details-${i}" ${arabicDetailsVisible ? "" : "hidden"}>
